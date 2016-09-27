@@ -1,0 +1,75 @@
+<!--<div class="row">
+
+</div>-->
+<div class="row">
+    <div class="col-md-4">
+        <div ng-repeat="result in vm.searchResult" class="panel bootstrap-panel panel-default">
+            <div class="panel-heading">
+                {{::result.name}}
+            </div>
+            <div class="panel-body">
+                <table class="table table-no-borders">
+                    <tr>
+                        <td class="align-right fit">Quantidade:</td>
+                        <td class="align-left">{{::result.count}}</td>
+                    </tr>
+                    <tr>
+                        <td class="align-right fit">Status:</td>
+                        <td class="align-left">{{::result.status}}</td>
+                    </tr>
+                    <tr>
+                        <td class="align-right fit">Data:</td>
+                        <td class="align-left">{{::result.date | date}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div ng-repeat="result in vm.searchResult" class="panel bootstrap-panel panel-info">
+            <div class="panel-heading">
+                {{::result.name}}
+            </div>
+            <div class="panel-body">
+                <table class="table table-no-borders">
+                    <tr>
+                        <td class="align-right fit">Quantidade:</td>
+                        <td class="align-left">{{::result.count}}</td>
+                    </tr>
+                    <tr>
+                        <td class="align-right fit">Status:</td>
+                        <td class="align-left">{{::result.status}}</td>
+                    </tr>
+                    <tr>
+                        <td class="align-right fit">Data:</td>
+                        <td class="align-left">{{::result.date | date}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div ng-repeat="result in vm.searchResult" class="panel bootstrap-panel panel-success">
+            <div class="panel-heading">
+                {{::result.name}}
+            </div>
+            <div class="panel-body">
+                <table class="table table-no-borders">
+                    <tr>
+                        <td class="align-right fit">Quantidade:</td>
+                        <td class="align-left">{{::result.count}}</td>
+                    </tr>
+                    <tr>
+                        <td class="align-right fit">Status:</td>
+                        <td class="align-left">{{::result.status}}</td>
+                    </tr>
+                    <tr>
+                        <td class="align-right fit">Data:</td>
+                        <td class="align-left">{{::result.date | date}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>

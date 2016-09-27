@@ -25,6 +25,8 @@
           url: '/mydemand',
           templateUrl: 'app/pages/demand/myDemand/myDemand.html',
           title: 'Meus Pedidos',
+          controller: 'myDemandCtrl',
+          controllerAs: 'vm',
           sidebarMeta: {
             order: 0,
           },
@@ -33,6 +35,8 @@
           url: '/alldemands',
           templateUrl: 'app/pages/demand/allDemands/allDemands.html',
           title: 'Todos os pedidos',
+          controller: 'allDemandsCtrl',
+          controllerAs: 'vm',
           sidebarMeta: {
             order: 100,
           },
