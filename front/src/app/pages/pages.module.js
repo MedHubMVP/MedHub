@@ -10,6 +10,8 @@
 
     'BlurAdmin.pages.dashboard',
     'BlurAdmin.pages.form',
+    'BlurAdmin.pages.search',
+    'BlurAdmin.pages.demand',
   ])
       .config(routeConfig);
 

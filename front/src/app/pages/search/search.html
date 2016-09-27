@@ -1,0 +1,28 @@
+<div class="row">
+    <div ba-panel>
+        <div class="form-group">
+            <input type="text" class="form-control" id="input01" placeholder="Busca">
+            <div ng-if="!vm.searchResult">
+                <br>
+                Nenhum resultado encontrado.
+            </div>
+            <table class="table"
+                ng-if="vm.searchResult">
+                <thead>
+                    <tr>
+                        <td>Nome</td>
+                        <td>Local</td>
+                        <td>Quantidade</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="result in vm.searchResult">
+                        <td>{{::result.name}}</td>
+                        <td>{{::result.place}}</td>
+                        <td>{{::result.count}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
