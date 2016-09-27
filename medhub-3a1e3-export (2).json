@@ -1,0 +1,4317 @@
+{
+  "estoqueAtualPorEAN" : {
+    "7896004710549" : [ {
+      "data" : "2016-09-20",
+      "hospital" : {
+        "endereco" : "Rua Padre Adelino, 901 - Bairro: Belém - São Paulo",
+        "fone" : "(11) 6602-0000",
+        "nome" : "Aviccena",
+        "site" : " Www.Hospitalaviccena.Com.Br"
+      },
+      "quantidade" : 555
+    } ],
+    "7896016806469" : [ {
+      "data" : "2016-08-15",
+      "hospital" : {
+        "endereco" : "Avenida Albert Einstein, 627 - Bairro: Morumbi -São Paulo",
+        "fone" : "(11) 2151-1233",
+        "nome" : "Albert Einstein",
+        "site" : "Www.Einstein.Br"
+      },
+      "quantidade" : 300
+    }, {
+      "data" : "2016-09-27",
+      "hospital" : {
+        "endereco" : "Rua Barão Do Rio Branco, 555 - Bairro: Santo Amaro - São Paulo",
+        "fone" : "2185-0500",
+        "nome" : "Alvorada Santo Amaro",
+        "site" : "Www.Hospitalalvorada.Com.Br"
+      },
+      "quantidade" : 58
+    } ]
+  },
+  "eventosPorEAN" : {
+    "7896016807442" : [ {
+      "acao" : "busca",
+      "data" : "2017-09-27",
+      "hospital" : {
+        "endereco" : "Rua Barão De Iguape, 209 - Bairro: Liberdade",
+        "fone" : "(11) 3345-2000",
+        "nome" : "Bandeirantes",
+        "site" : " Www.Hospitalbandeirantes.Com.Br"
+      },
+      "resultado" : "nao_encontrado"
+    } ]
+  },
+  "medicamentos" : [ {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "250 MG PO LIOF INJ CT FA + SER DESC",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505107701157215,
+    "ean" : 7896016806469,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900019
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "125 MG/ML SOL INJ CT 1 SER PREENCHIDA",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505113030019605,
+    "ean" : 7896016807442,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900027
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "125 MG/ML SOL INJ CT 4 SER PREENCHIDA",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505113030019705,
+    "ean" : 7896016807466,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900035
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "125 MG/ML SOL INJ CT 1 SER PREENCHIDA + DISPOSITIVO ULTRASAFE",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505113030019805,
+    "ean" : 7896016807459,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900043
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "125 MG/ML SOL INJ CT 4 SER PREENCHIDA + DISPOSITIVO ULTRASAFE",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505113030019905,
+    "ean" : 7896016807473,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900051
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "125 MG/ML SOL INJ CT 1 SER PREENC VD TRANS + DISPOSITIVO ULTRASAFE PASSIVE + EXTENSORES DE APOIO",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505113100020405,
+    "ean" : 7896016808180,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900061
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "125 MG/ML SOL INJ CT 4 SER PREENC VD TRANS + DISPOSITIVO ULTRASAFE PASSIVE + EXTENSORES DE APOIO",
+    "classeTerapeutica" : "M01C0 - AGENTES ANTI-REUMÁTICOS ESPECÍFICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505113100020505,
+    "ean" : 7896016808197,
+    "nome" : "ORENCIA",
+    "principio" : "ABATACEPTE",
+    "registro" : 1018003900078
+  }, {
+    "Laboratorio" : "ELI LILLY DO BRASIL LTDA",
+    "apresentacao" : "2 MG/ML SOL INJ CT FA VD INC X 5 ML",
+    "classeTerapeutica" : "B01C3 - INIBIDORES DA AGREGAÇÃO PLAQUETÁRIA, ANTAGONISTAS GLICOPROTEÍNA IIB/IIIA",
+    "cnpj" : "43.940.618/0001-44",
+    "codigoGGREM" : 507602501155210,
+    "ean" : 7896382701801,
+    "nome" : "REOPRO",
+    "principio" : "ABCIXIMABE",
+    "registro" : 1126000100027
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "100 MG COM CT 3 BL AL PVDC LEIT X 10",
+    "classeTerapeutica" : "A10L0 - ANTIDIABÉTICOS INIBIDORES ALFA-GLUCOSIDASE",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531613701110411,
+    "ean" : 7894916503761,
+    "nome" : "AGLUCOSE",
+    "principio" : "ACARBOSE",
+    "registro" : 1356900350083
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "100 MG COM CT BL AL/AL X 30",
+    "classeTerapeutica" : "A10L0 - ANTIDIABÉTICOS INIBIDORES ALFA-GLUCOSIDASE",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050014313,
+    "ean" : 7891106001748,
+    "nome" : "GLUCOBAY",
+    "principio" : "ACARBOSE",
+    "registro" : 1705600740091
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "50 MG COM CT 3 BL AL PVDC LEIT X 10",
+    "classeTerapeutica" : "A10L0 - ANTIDIABÉTICOS INIBIDORES ALFA-GLUCOSIDASE",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531613702117411,
+    "ean" : 7894916503754,
+    "nome" : "AGLUCOSE",
+    "principio" : "ACARBOSE",
+    "registro" : 1356900350032
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "50 MG COM CT BL AL/AL X 30",
+    "classeTerapeutica" : "A10L0 - ANTIDIABÉTICOS INIBIDORES ALFA-GLUCOSIDASE",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050014213,
+    "ean" : 7891106001731,
+    "nome" : "GLUCOBAY",
+    "principio" : "ACARBOSE",
+    "registro" : 1705600740073
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "5 MG/ML GEL OR CT FR PLAS INC X 120ML + COL MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508013120101205,
+    "ean" : 7891317485153,
+    "nome" : "FILINAR G",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1004310860022
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531618501136418,
+    "ean" : 7894916504072,
+    "nome" : "EXPECDILAT",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1356903940035
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506409801136113,
+    "ean" : 7896523209111,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1438101310011
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "10 MG/ML XPE CX 50 FR PLAS AMB X 120 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506414100028706,
+    "ean" : 7896523209098,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1438101310038
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PEAD X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412020063003,
+    "ean" : 7899095235489,
+    "nome" : "BRONTEK",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301160050
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CX 60 FR PEAD X 120 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412020063103,
+    "ean" : 7899095235502,
+    "nome" : "BRONTEK",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301160069
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML XPE CT FR VD AMB X 120ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413301132119,
+    "ean" : 7899095233027,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301230016
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PEAD X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413303135115,
+    "ean" : 7899095235441,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301230059
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CX 60 FR PEAD X 120 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413304131113,
+    "ean" : 7899095235458,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301230067
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413402133412,
+    "ean" : 7899095203594,
+    "nome" : "BRONTEK",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301160018
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE AD CT FR VD AMB X 120 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538808902139411,
+    "ean" : 7896004710549,
+    "nome" : "BRONCOLEX",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1677301840026
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538820102139114,
+    "ean" : 7894916140485,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1677303210021
+  }, {
+    "Laboratorio" : "MABRA FARMACÊUTICA LTDA.",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + COPO MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "09.545.589/0001-88",
+    "codigoGGREM" : 540500802131415,
+    "ean" : 7898505091004,
+    "nome" : "BRONFILIL",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1779400170013
+  }, {
+    "Laboratorio" : "MEDLEY FARMACÊUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + DOSADOR",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "10.588.595/0007-97",
+    "codigoGGREM" : 525064504139119,
+    "ean" : 7896422509244,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1832600370032
+  }, {
+    "Laboratorio" : "LABORATÓRIO GLOBO LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.115.437/0001-73",
+    "codigoGGREM" : 517609502138419,
+    "ean" : 7898060132198,
+    "nome" : "RESPIRAN",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1053501620024
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS OPC X 120ML + COP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520712070082606,
+    "ean" : 7896112159070,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037004620131
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PET AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520715080095006,
+    "ean" : 7896112191537,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037004620253
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520723901135111,
+    "ean" : 7896112115465,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037004620059
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS OPC X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520733801133414,
+    "ean" : 7896112159254,
+    "nome" : "DILABRONCO",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037005630031
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "10 MG/ ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519001802138411,
+    "ean" : 7896714227788,
+    "nome" : "BRONDYNEO",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1046502310018
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519024201130113,
+    "ean" : 7896714214146,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1046504180030
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526116090097406,
+    "ean" : 7896004710495,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1058303150049
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526119401131111,
+    "ean" : 7896004710495,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1058303150022
+  }, {
+    "Laboratorio" : "BIOSINTÉTICA FARMACÊUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "53.162.095/0001-06",
+    "codigoGGREM" : 521116040063206,
+    "ean" : 7896181924081,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1121303330044
+  }, {
+    "Laboratorio" : "BIOSINTÉTICA FARMACÊUTICA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "53.162.095/0001-06",
+    "codigoGGREM" : 521121501137116,
+    "ean" : 7896181924081,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1121303330028
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507728902132114,
+    "ean" : 7896004710471,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1023506580029
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "10 MG/ML XPE AD CT FR VD AMB X 120 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507731401130410,
+    "ean" : 7896004710549,
+    "nome" : "BRONCOLEX",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1023507750025
+  }, {
+    "Laboratorio" : "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "apresentacao" : "10 MG / ML XPE CT FR PLAS PET AMB X 120 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.659.463/0029-92",
+    "codigoGGREM" : 500501201132417,
+    "ean" : 7896658002113,
+    "nome" : "BRONDILAT",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1057301270065
+  }, {
+    "Laboratorio" : "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "apresentacao" : "10 MG / ML XPE CT FR PLAS PET AMB X 60 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.659.463/0029-92",
+    "codigoGGREM" : 500501204131314,
+    "ean" : 7896658012167,
+    "nome" : "BRONDILAT",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1057301270091
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PET AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533013020059006,
+    "ean" : 7896006205593,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1049713180054
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + COPO MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508015901138411,
+    "ean" : 7891317004439,
+    "nome" : "FILINAR",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1004311580023
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017402139115,
+    "ean" : 7891317002695,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1004307850021
+  }, {
+    "Laboratorio" : "NOVA QUIMICA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "72.593.791/0001-11",
+    "codigoGGREM" : 525305101134112,
+    "ean" : 7895296271028,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1267500710022
+  }, {
+    "Laboratorio" : "NOVA QUIMICA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "72.593.791/0001-11",
+    "codigoGGREM" : 525305103137119,
+    "ean" : 7895296271035,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1267500710049
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "10 MG/ ML XPE CX 50 FR PLAS AMB X 120 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525701135113,
+    "ean" : 7898148292882,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590063
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "10 MG/ ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525706137114,
+    "ean" : 7898148292851,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590071
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "10 MG/ML XPE CT FR PLAS OPC X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525709136119,
+    "ean" : 7898148292899,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590101
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "10 MG/ML XPE CX 50 FR PLAS OPC X 120 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525710134116,
+    "ean" : 7898148292905,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590098
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO ELOFAR LTDA",
+    "apresentacao" : "10 MG / ML XPE CT FR VD AMB X 100 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "83.874.628/0001-43",
+    "codigoGGREM" : 517113100013504,
+    "ean" : 7898109241928,
+    "nome" : "LISOMUC",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1038501090048
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO ELOFAR LTDA",
+    "apresentacao" : "10 MG / ML XPE CT FR PET AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "83.874.628/0001-43",
+    "codigoGGREM" : 517113100013604,
+    "ean" : 7898109241935,
+    "nome" : "LISOMUC",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1038501090056
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO ELOFAR LTDA",
+    "apresentacao" : "10 MG / ML XPE CX 50 FR PET AMB X 120 ML + COP (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "83.874.628/0001-43",
+    "codigoGGREM" : 517113100013704,
+    "ean" : 7898109248989,
+    "nome" : "LISOMUC",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1038501090064
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531618502132416,
+    "ean" : 7894916504089,
+    "nome" : "EXPECDILAT",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1356903940019
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506409802132111,
+    "ean" : 7896523209128,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1438101310021
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "5 MG/ML XPE CX 50 FR PLAS AMB X 120 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506414100028606,
+    "ean" : 7896523209104,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1438101310046
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR PEAD X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412020063203,
+    "ean" : 7899095235496,
+    "nome" : "BRONTEK",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301160077
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CX 60 FR PEAD X 120 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412020063303,
+    "ean" : 7899095235519,
+    "nome" : "BRONTEK",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301160085
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "5MG/ML XPE CT FR VD AMB X 120ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413302139117,
+    "ean" : 7899095233034,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301230032
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR PEAD X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413305138111,
+    "ean" : 7899095235465,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301230075
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CX 60 FR PEAD X 120 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413306134111,
+    "ean" : 7899095235472,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301230083
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413401137414,
+    "ean" : 7899095203600,
+    "nome" : "BRONTEK",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1542301160034
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE INF CT FR VD AMB X 120 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538808901132413,
+    "ean" : 7896004710532,
+    "nome" : "BRONCOLEX",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1677301840018
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538820101132116,
+    "ean" : 7894916140492,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1677303210011
+  }, {
+    "Laboratorio" : "MABRA FARMACÊUTICA LTDA.",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + COPO MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "09.545.589/0001-88",
+    "codigoGGREM" : 540500801135417,
+    "ean" : 7898505091011,
+    "nome" : "BRONFILIL",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1779400170021
+  }, {
+    "Laboratorio" : "MEDLEY FARMACÊUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + DOSADOR",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "10.588.595/0007-97",
+    "codigoGGREM" : 525064501131117,
+    "ean" : 7896422509251,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1832600370016
+  }, {
+    "Laboratorio" : "LABORATÓRIO GLOBO LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.115.437/0001-73",
+    "codigoGGREM" : 517609501131410,
+    "ean" : 7898060133577,
+    "nome" : "RESPIRAN",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1053501620016
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS OPC X 120ML + COP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520712070082506,
+    "ean" : 7896112159049,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037004620091
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "5MG/ML XPE CT FR PLAS AMB X 120ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520715080094906,
+    "ean" : 7896112191490,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037004620296
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520723902131118,
+    "ean" : 7896112115472,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037004620016
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS OPC X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520733802131415,
+    "ean" : 7896112159223,
+    "nome" : "DILABRONCO",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1037005630066
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "25MG/5ML XPE INF (VD C/120ML)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519001801131413,
+    "ean" : 7896714227771,
+    "nome" : "BRONDYNEO",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1046502310026
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519024202137111,
+    "ean" : 7896714214115,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1046504180014
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526116090097106,
+    "ean" : 7896004710488,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1058303150030
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526119402136117,
+    "ean" : 7896004710488,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1058303150014
+  }, {
+    "Laboratorio" : "BIOSINTÉTICA FARMACÊUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "53.162.095/0001-06",
+    "codigoGGREM" : 521116040063106,
+    "ean" : 7896181924098,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1121303330036
+  }, {
+    "Laboratorio" : "BIOSINTÉTICA FARMACÊUTICA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "53.162.095/0001-06",
+    "codigoGGREM" : 521121502133114,
+    "ean" : 7896181924098,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1121303330011
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507728901136116,
+    "ean" : 7896004710464,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1023506580010
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "5 MG/ML XPE INF CT FR VD AMB X 120 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507731402137419,
+    "ean" : 7896004710532,
+    "nome" : "BRONCOLEX",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1023507750017
+  }, {
+    "Laboratorio" : "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "apresentacao" : "5 MG / ML XPE CT FR PLAS PET AMB X 120 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.659.463/0029-92",
+    "codigoGGREM" : 500501202139415,
+    "ean" : 7896658002120,
+    "nome" : "BRONDILAT",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1057301270073
+  }, {
+    "Laboratorio" : "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "apresentacao" : "5 MG / ML XPE CT FR PLAS PET AMB X 60 ML + CP MED X 10 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.659.463/0029-92",
+    "codigoGGREM" : 500501203135316,
+    "ean" : 7896658012174,
+    "nome" : "BRONDILAT",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1057301270111
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "5MG/ML XPE CT FR VD AMB X 120ML + SER DOSAD",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533020001132116,
+    "ean" : 7896006259152,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1049713180011
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + COPO MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508015902134418,
+    "ean" : 7891317004378,
+    "nome" : "FILINAR",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1004311580015
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017401132117,
+    "ean" : 7891317002688,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1004307850011
+  }, {
+    "Laboratorio" : "NOVA QUIMICA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "72.593.791/0001-11",
+    "codigoGGREM" : 525305102130110,
+    "ean" : 7895296271011,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1267500710014
+  }, {
+    "Laboratorio" : "NOVA QUIMICA FARMACÊUTICA S/A",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "72.593.791/0001-11",
+    "codigoGGREM" : 525305104133117,
+    "ean" : 7895296271042,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1267500710030
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "5 MG/ ML XPE CX 50 FR PLAS AMB X 120 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525703138111,
+    "ean" : 7898148292776,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590020
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "5 MG/ ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525704134118,
+    "ean" : 7898148292745,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590039
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "5 MG/ML XPE CT FR PLAS OPC X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525711130114,
+    "ean" : 7898148292783,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590111
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "5 MG/ML XPE CX 50 FR PLAS OPC X 120 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528525712137112,
+    "ean" : 7898148292790,
+    "nome" : "ACEBROFILINA",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1256801590128
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO ELOFAR LTDA",
+    "apresentacao" : "5 MG / ML XPE  CT FR VD AMB X 100 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "83.874.628/0001-43",
+    "codigoGGREM" : 517113100013204,
+    "ean" : 1038501090013,
+    "nome" : "LISOMUC",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1038501090013
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO ELOFAR LTDA",
+    "apresentacao" : "5 MG / ML XPE CT FR PET AMB X 120 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "83.874.628/0001-43",
+    "codigoGGREM" : 517113100013304,
+    "ean" : 7898109241959,
+    "nome" : "LISOMUC",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1038501090021
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO ELOFAR LTDA",
+    "apresentacao" : "5 MG / ML XPE CX  50 FR PET AMB X 120 ML + COP (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "83.874.628/0001-43",
+    "codigoGGREM" : 517113100013404,
+    "ean" : 7898109248972,
+    "nome" : "LISOMUC",
+    "principio" : "ACEBROFILINA",
+    "registro" : 1038501090031
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538812070042306,
+    "ean" : 7894916144803,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1677303570034
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538813080046904,
+    "ean" : 7896004722726,
+    "nome" : "ACECLO-GRAN",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1677300650101
+  }, {
+    "Laboratorio" : "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT ENV AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "30.222.814/0001-31",
+    "codigoGGREM" : 533512090023004,
+    "ean" : 7898049795611,
+    "nome" : "CECLOFLAN",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1039200560043
+  }, {
+    "Laboratorio" : "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT ENV AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "30.222.814/0001-31",
+    "codigoGGREM" : 533514080027106,
+    "ean" : 7898049795260,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1039201720011
+  }, {
+    "Laboratorio" : "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT ENV AL X 16",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "30.222.814/0001-31",
+    "codigoGGREM" : 533514080027206,
+    "ean" : 7898049795277,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1039201720028
+  }, {
+    "Laboratorio" : "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT ENV AL X 24",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "30.222.814/0001-31",
+    "codigoGGREM" : 533514080027306,
+    "ean" : 7898049795284,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1039201720036
+  }, {
+    "Laboratorio" : "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT ENV AL X 480 (EMB HOSP)",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "30.222.814/0001-31",
+    "codigoGGREM" : 533514080027406,
+    "ean" : 7898049795291,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1039201720044
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL PLAS OPC X 24",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526112030083206,
+    "ean" : 7896004722153,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1058307420075
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL PLAS OPC X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526112030083306,
+    "ean" : 7896004722146,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1058307420032
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526112070085006,
+    "ean" : 7896004722146,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1058307420040
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 24",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526112070085106,
+    "ean" : 7896004722153,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1058307420083
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "100 MG  COM  REV CT BL AL PLAS OPC X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "57.507.378/0003-65",
+    "codigoGGREM" : 541812060000106,
+    "ean" : 7896004722122,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1023510530030
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "100 MG  COM  REV CT BL AL AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "57.507.378/0003-65",
+    "codigoGGREM" : 541812070001306,
+    "ean" : 7896004722122,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1023510530049
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "57.507.378/0003-65",
+    "codigoGGREM" : 541812090003803,
+    "ean" : 7896004722405,
+    "nome" : "FEBUPEN",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1023509200103
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "100 MG COM REV CT BL AL/AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508011302116319,
+    "ean" : 7891317411923,
+    "nome" : "PROFLAM",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1004308170030
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "100 MG COM REV CT BL AL / AL X 6",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508011305115313,
+    "ean" : 7891317440312,
+    "nome" : "PROFLAM",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1004308170091
+  }, {
+    "Laboratorio" : "NOVA QUIMICA FARMACÊUTICA S/A",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "72.593.791/0001-11",
+    "codigoGGREM" : 525312080037206,
+    "ean" : 7895296118064,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1267501560032
+  }, {
+    "Laboratorio" : "NOVA QUIMICA FARMACÊUTICA S/A",
+    "apresentacao" : "100 MG COM REV CT BL AL AL X 24",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "72.593.791/0001-11",
+    "codigoGGREM" : 525312080037306,
+    "ean" : 7895296118088,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1267501560075
+  }, {
+    "Laboratorio" : "RANBAXY FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT STR AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "73.663.650/0001-90",
+    "codigoGGREM" : 529900101113114,
+    "ean" : 7897076909312,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1235201000025
+  }, {
+    "Laboratorio" : "RANBAXY FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG COM REV CT 2 STR AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "73.663.650/0001-90",
+    "codigoGGREM" : 529900102111115,
+    "ean" : 7897076909343,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1235201000033
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL/AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525904901111117,
+    "ean" : 7896472505883,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1181900780019
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "100 MG COM REV CT BL AL/AL X 12",
+    "classeTerapeutica" : "M01A1 - ANTI-REUMÁTICOS NÃO ESTEROIDAIS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525905701116415,
+    "ean" : 7896472505913,
+    "nome" : "CECOFENE",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1181900870018
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "15 MG/G CREM DERM CT BG AL X 30 G",
+    "classeTerapeutica" : "M02A0 - ANTI-REUMÁTICOS E ANALGÉSICOS TÓPICOS",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507737301162115,
+    "ean" : 7896004716534,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1023508410031
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "15 MG/G CREM DERM CT TB AL X 30 G",
+    "classeTerapeutica" : "M02A0 - ANTI-REUMÁTICOS E ANALGÉSICOS TÓPICOS",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508011303163310,
+    "ean" : 7891317412661,
+    "nome" : "PROFLAM",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1004308170014
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "15 MG/G CREM DERM CT BG AL X 30 G",
+    "classeTerapeutica" : "M02A0 - ANTI-REUMÁTICOS E ANALGÉSICOS TÓPICOS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526127601169113,
+    "ean" : 7896004716541,
+    "nome" : "ACECLOFENACO",
+    "principio" : "ACECLOFENACO",
+    "registro" : 1058305410031
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 15 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050016413,
+    "ean" : 7795320050127,
+    "nome" : "ADVANTAN",
+    "principio" : "ACEPONATO DE METILPREDNISOLONA",
+    "registro" : 1705600850014
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "1 MG/G LOÇÃO CREMOSA CT BG AL X 20 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050012713,
+    "ean" : 7795320050646,
+    "nome" : "ADVANTAN",
+    "principio" : "ACEPONATO DE METILPREDNISOLONA",
+    "registro" : 1705600850154
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "1 MG/ML SOL TOP CT FR PLAS OPC GOT X 20 ML",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050012613,
+    "ean" : 7891106910712,
+    "nome" : "ADVANTAN",
+    "principio" : "ACEPONATO DE METILPREDNISOLONA",
+    "registro" : 1705600850091
+  }, {
+    "Laboratorio" : "JANSSEN-CILAG FARMACÊUTICA LTDA",
+    "apresentacao" : "250 MG COM CT FR PLAS OPC X 120",
+    "classeTerapeutica" : "L01X9 - TODOS OS OUTROS ANTINEOPLÁSICOS",
+    "cnpj" : "51.780.468/0001-87",
+    "codigoGGREM" : 514512020025102,
+    "ean" : 7896212424351,
+    "nome" : "ZYTIGA",
+    "principio" : "ACETATO DE ABIRATERONA",
+    "registro" : 1123634010019
+  }, {
+    "Laboratorio" : "SANOFI-AVENTIS FARMACÊUTICA LTDA",
+    "apresentacao" : "3,3 MG/MICROBAST IMPL CT SER APLIC X 2 MICROBAST",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "02.685.377/0001-57",
+    "codigoGGREM" : 502811901171315,
+    "ean" : 7891058803032,
+    "nome" : "SUPREFACT DEPOT",
+    "principio" : "ACETATO DE BUSSERRELINA",
+    "registro" : 1130000800010
+  }, {
+    "Laboratorio" : "MERCK SHARP & DOHME FARMACEUTICA  LTDA",
+    "apresentacao" : "50 MG PO LIOF SOL INJ CT FA VD INC",
+    "classeTerapeutica" : "J02A0 - AGENTES SISTÊMICOS PARA INFECÇÕES FÚNGICAS",
+    "cnpj" : "45.987.013/0001-34",
+    "codigoGGREM" : 525500301155311,
+    "ean" : 7897337707381,
+    "nome" : "CANCIDAS",
+    "principio" : "ACETATO DE CASPOFUNGINA",
+    "registro" : 1002900330017
+  }, {
+    "Laboratorio" : "MERCK SHARP & DOHME FARMACEUTICA  LTDA",
+    "apresentacao" : "70 MG PO LIOF SOL INJ CT FA VD INC",
+    "classeTerapeutica" : "J02A0 - AGENTES SISTÊMICOS PARA INFECÇÕES FÚNGICAS",
+    "cnpj" : "45.987.013/0001-34",
+    "codigoGGREM" : 525500302151318,
+    "ean" : 7897337707398,
+    "nome" : "CANCIDAS",
+    "principio" : "ACETATO DE CASPOFUNGINA",
+    "registro" : 1002900330025
+  }, {
+    "Laboratorio" : "MERCK S/A",
+    "apresentacao" : "0,25 MG PO LIOF INJ CT FA VD INC + 1 SER DIL + 2 AGULHAS + 2 TOALHAS",
+    "classeTerapeutica" : "H01C3 - HORMÔNIOS DE LIBERAÇÃO ANTIGONADOTROFINA",
+    "cnpj" : "33.069.212/0001-84",
+    "codigoGGREM" : 525421701150311,
+    "ean" : 7891721022548,
+    "nome" : "CETROTIDE",
+    "principio" : "ACETATO DE CETRORRELIX",
+    "registro" : 1008903690013
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "100 MG COM CT BL AL PLAS INC X 20",
+    "classeTerapeutica" : "L02B2 - HORMÔNIOS ANTIANDROGÊNICOS CITOSTÁTICOS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050012913,
+    "ean" : 7891106907491,
+    "nome" : "ANDROCUR",
+    "principio" : "ACETATO DE CIPROTERONA",
+    "registro" : 1705600660061
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "50 MG COM CT BL AL PLAS INC X 20",
+    "classeTerapeutica" : "L02B2 - HORMÔNIOS ANTIANDROGÊNICOS CITOSTÁTICOS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050012813,
+    "ean" : 7891106907460,
+    "nome" : "ANDROCUR",
+    "principio" : "ACETATO DE CIPROTERONA",
+    "registro" : 1705600660037
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "50 MG COM CT BL AL PLAS INC X 20",
+    "classeTerapeutica" : "L02B2 - HORMÔNIOS ANTIANDROGÊNICOS CITOSTÁTICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533009501116410,
+    "ean" : 7896006282518,
+    "nome" : "PROSTMAN",
+    "principio" : "ACETATO DE CIPROTERONA",
+    "registro" : 1049712010023
+  }, {
+    "Laboratorio" : "LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA",
+    "apresentacao" : "50 MG COM CT BL AL PLAS INC X 20",
+    "classeTerapeutica" : "L02B2 - HORMÔNIOS ANTIANDROGÊNICOS CITOSTÁTICOS",
+    "cnpj" : "61.282.661/0001-41",
+    "codigoGGREM" : 519508101118111,
+    "ean" : 7898149934514,
+    "nome" : "ACETATO DE CIPROTERONA",
+    "principio" : "ACETATO DE CIPROTERONA",
+    "registro" : 1064601740019
+  }, {
+    "Laboratorio" : "APSEN FARMACEUTICA S/A",
+    "apresentacao" : "50 MG COM CT BL AL PLAS INC X 20",
+    "classeTerapeutica" : "L02B2 - HORMÔNIOS ANTIANDROGÊNICOS CITOSTÁTICOS",
+    "cnpj" : "62.462.015/0001-29",
+    "codigoGGREM" : 501600201112411,
+    "ean" : 7896637023016,
+    "nome" : "CIPROSTAT",
+    "principio" : "ACETATO DE CIPROTERONA",
+    "registro" : 1011801610029
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "120 MG PO LIOF INJ CT 2 FA VD INC + 2 DIL 6 ML + 2 SER + 2 AGU + 4 ADAP",
+    "classeTerapeutica" : "L02B9 - OUTROS CITOSTÁTICOS ANTAGONISTAS HORMONAIS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521401701152210,
+    "ean" : 7896165600642,
+    "nome" : "FIRMAGON",
+    "principio" : "ACETATO DE DEGARELIX",
+    "registro" : 1287600170024
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "120 MG PO LIOF INJ CT 2 FA VD INC + 2 DIL SER PREENCH VD TRANS X 3 ML + 2 ADAP + 2 AGU + 2 ÊMBOLOS",
+    "classeTerapeutica" : "L02B9 - OUTROS CITOSTÁTICOS ANTAGONISTAS HORMONAIS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521416070006203,
+    "ean" : 7896165600925,
+    "nome" : "FIRMAGON",
+    "principio" : "ACETATO DE DEGARELIX",
+    "registro" : 1287600170040
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "80 MG PO LIOF INJ CT 1 FA VD INC + 1 DIL 6 ML + 1 SER + 1 AGU + 2 ADAP",
+    "classeTerapeutica" : "L02B9 - OUTROS CITOSTÁTICOS ANTAGONISTAS HORMONAIS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521401702159219,
+    "ean" : 7896165600635,
+    "nome" : "FIRMAGON",
+    "principio" : "ACETATO DE DEGARELIX",
+    "registro" : 1287600170016
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "80 MG PO LIOF INJ CT 1 FA VD INC + 1 DIL SER PREENCH VD TRANS X 4,2 ML + 1 ADAP + 1 AGU + ÊMBOLO",
+    "classeTerapeutica" : "L02B9 - OUTROS CITOSTÁTICOS ANTAGONISTAS HORMONAIS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521416070006103,
+    "ean" : 7896165600918,
+    "nome" : "FIRMAGON",
+    "principio" : "ACETATO DE DEGARELIX",
+    "registro" : 1287600170032
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "0,1 MG COM CT FR PLAS OPC X 30",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400201113315,
+    "ean" : 7896165600048,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150015
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "0,2 MG COM CT FR PLAS OPC X 30",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400204112311,
+    "ean" : 7896165600055,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150023
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "15 MCG /ML SOL INJ CT 1 AMP VD INC X 1ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400207154315,
+    "ean" : 7896165600574,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150074
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "15 MCG /ML SOL INJ CT 1 AMP VD INC X 2ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400208150313,
+    "ean" : 7896165600581,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150104
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "15 MCG /ML SOL INJ CT 10 AMP VD INC X 2ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400209157311,
+    "ean" : 7896165600550,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150112
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "15 MCG /ML SOL INJ CT 10 AMP VD INC X 1ML (EMB FRAC)",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400210155319,
+    "ean" : 7896165600673,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150090
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "15 MCG /ML SOL INJ CT 10 AMP VD INC X 2ML  (EMB FRAC)",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400211151317,
+    "ean" : 7896165600680,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150120
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "15 MCG /ML SOL INJ CT 10 AMP VD INC X 1ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400212158315,
+    "ean" : 7896165600178,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150082
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "4 MCG/ML SOL INJ CT 10 AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400205151319,
+    "ean" : 7896165600062,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150041
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,1 MG/ML SOL NAS CT FR VD AMB NEB X 5 ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412050004814,
+    "ean" : 7898909980195,
+    "nome" : "D-VOID",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1468200220012
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,1 MG/ML SOL NAS CT FR VD AMB NEB X 2,5 ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412050004914,
+    "ean" : 7898909980263,
+    "nome" : "D-VOID",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1468200220020
+  }, {
+    "Laboratorio" : "FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP",
+    "apresentacao" : "0,1 MG/ML SOL NAS CT FR VD AMB X 5ML + CAN",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "43.640.754/0001-19",
+    "codigoGGREM" : 510005601133416,
+    "ean" : 7895005800303,
+    "nome" : "FURP-DESMOPRESSINA",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1103901150033
+  }, {
+    "Laboratorio" : "LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA",
+    "apresentacao" : "0,1 MG/ML SOL NAS CT FR SPR VD AMB X 2,5 ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "61.282.661/0001-41",
+    "codigoGGREM" : 519507902176111,
+    "ean" : 7898149934910,
+    "nome" : "ACETATO DE DESMOPRESSINA",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1064601720018
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "0,1 MG/ML SOL NAS CT FR VD AMB SPR 2,5ML",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400202179311,
+    "ean" : 7896165600024,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150058
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "0,1MG/ML SOL NAS CT FR VD AMB 2,5ML + 2 TUB",
+    "classeTerapeutica" : "H04D0 - HORMÔNIOS ANTIDIURÉTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400203175318,
+    "ean" : 7896165600017,
+    "nome" : "DDAVP",
+    "principio" : "ACETATO DE DESMOPRESSINA",
+    "registro" : 1287600150031
+  }, {
+    "Laboratorio" : "FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP",
+    "apresentacao" : "0,1 PCC CR DERM CX 50 BG AL X 10 G (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "43.640.754/0001-19",
+    "codigoGGREM" : 510001801162417,
+    "ean" : 7895005800327,
+    "nome" : "FURP-DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1103900050051
+  }, {
+    "Laboratorio" : "BELFAR LTDA",
+    "apresentacao" : "1 MG CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.324.343/0001-77",
+    "codigoGGREM" : 503404301165419,
+    "ean" : 7897917001502,
+    "nome" : "LISODERME",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1057101230019
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506410101169111,
+    "ean" : 7896523210698,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1438101450018
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "1 MG / G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510408201168115,
+    "ean" : 7899095232372,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1542300750016
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510408701160415,
+    "ean" : 7899095203204,
+    "nome" : "CETADEX",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1542300760011
+  }, {
+    "Laboratorio" : "GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "33.408.105/0001-33",
+    "codigoGGREM" : 510802401162419,
+    "ean" : 7897852900113,
+    "nome" : "DEXAGREEN",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1201900220011
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "1MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507709401166419,
+    "ean" : 7896004707624,
+    "nome" : "DEXADERMIL",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1023503330011
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507739001166111,
+    "ean" : 7896004721903,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1023508480013
+  }, {
+    "Laboratorio" : "SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "61.286.647/0001-16",
+    "codigoGGREM" : 511502902164410,
+    "ean" : 7897595620699,
+    "nome" : "DEXAMETONAL",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1004702030031
+  }, {
+    "Laboratorio" : "KLEY HERTZ FARMACEUTICA S.A",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.695.691/0001-03",
+    "codigoGGREM" : 515106301160411,
+    "ean" : 7896331701937,
+    "nome" : "DEXAMETAX",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1068900870014
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "1MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538811101168413,
+    "ean" : 7896004707624,
+    "nome" : "DEXADERMIL",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1677301900010
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520728501161114,
+    "ean" : 7896112123026,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1037004790019
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "1 MG/G CREM DERM CX 50 BG AL X 10 G (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520728503162118,
+    "ean" : 7896112123194,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1037004790035
+  }, {
+    "Laboratorio" : "LABORATÓRIOS OSÓRIO DE MORAES LTDA",
+    "apresentacao" : "1 MG/G CREM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "19.791.813/0001-75",
+    "codigoGGREM" : 522101202167413,
+    "ean" : 7898089300714,
+    "nome" : "METADEX",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1050400380015
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526129201168116,
+    "ean" : 7896004721897,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1058305440011
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "1 MG/ G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533024801168118,
+    "ean" : 7896006267010,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1049713340019
+  }, {
+    "Laboratorio" : "SANVAL COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "61.068.755/0001-12",
+    "codigoGGREM" : 530808401169111,
+    "ean" : 7896137133796,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1071402490015
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "1 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528524001164112,
+    "ean" : 7898148294596,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1256801260012
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "1 MG/G CREM DERM CX 100 BG AL X 10 G (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528524002160110,
+    "ean" : 7898148294602,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1256801260020
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525900601164417,
+    "ean" : 7896472502110,
+    "nome" : "CORTITOP",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1181900370015
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CX 50 BG AL X 10 G   (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525900602160415,
+    "ean" : 7896472504800,
+    "nome" : "CORTITOP",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1181900370041
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CT BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525916050036406,
+    "ean" : 7896472503599,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1181901730015
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CX 320 BG AL X 10 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525916050036506,
+    "ean" : 7896472517367,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1181901730023
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CX 50 BG AL X 10 G (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525916050036606,
+    "ean" : 7896472503605,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1181901730041
+  }, {
+    "Laboratorio" : "MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,0 MG/G CREM DERM CX 100 BG AL X 10 G (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "92.265.552/0001-40",
+    "codigoGGREM" : 525916050036706,
+    "ean" : 7896472503612,
+    "nome" : "ACETATO DE DEXAMETASONA",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1181901730031
+  }, {
+    "Laboratorio" : "ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A",
+    "apresentacao" : "8MG/ML SUS INJ CT FA INC X 2 ML",
+    "classeTerapeutica" : "H02A1 - CORTICOSTERÓIDES INJETÁVEIS PUROS",
+    "cnpj" : "60.659.463/0029-92",
+    "codigoGGREM" : 500507801158416,
+    "ean" : 7896658003226,
+    "nome" : "DECADRONAL",
+    "principio" : "ACETATO DE DEXAMETASONA",
+    "registro" : 1057303170017
+  }, {
+    "Laboratorio" : "LABORATIL FARMACEUTICA LTDA",
+    "apresentacao" : "CX 30 CAPS",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "47.100.862/0001-50",
+    "codigoGGREM" : 505208801114415,
+    "ean" : 7893353606325,
+    "nome" : "VIETA",
+    "principio" : "ACETATO DE DEXTROALFATOCOFEROL",
+    "registro" : 1057700560021
+  }, {
+    "Laboratorio" : "INSTITUTO TERAPÊUTICO DELTA LTDA.",
+    "apresentacao" : "400 MG CAP GEL MOLE CT BL AL PLAS INC X 20",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "33.173.097/0002-74",
+    "codigoGGREM" : 514002201110416,
+    "ean" : 7893454208220,
+    "nome" : "VITAMINA E DELTA",
+    "principio" : "ACETATO DE DEXTROALFATOCOFEROL",
+    "registro" : 1044000390027
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "400 MG CAP GEL MOLE CT BL AL PLAS INC X 30",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508020703111414,
+    "ean" : 7891317445935,
+    "nome" : "EMAMA",
+    "principio" : "ACETATO DE DEXTROALFATOCOFEROL",
+    "registro" : 1004309230045
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "400 MG CAP GEL MOLE CT BL AL PLAS INC X 10",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508020704116411,
+    "ean" : 7891317429935,
+    "nome" : "EMAMA",
+    "principio" : "ACETATO DE DEXTROALFATOCOFEROL",
+    "registro" : 1004309230037
+  }, {
+    "Laboratorio" : "ATIVUS FARMACÊUTICA LTDA",
+    "apresentacao" : "400 UI CX C/ 30 CAPS",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "64.088.172/0001-41",
+    "codigoGGREM" : 502406301113428,
+    "ean" : 7896317901221,
+    "nome" : "ZIRVIT E",
+    "principio" : "ACETATO DE DEXTROALFATOCOFEROL",
+    "registro" : 1186100850021
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "0,1 MG COM CT FR VD AMB X 100",
+    "classeTerapeutica" : "H02A2 - CORTICOSTERÓIDES ORAIS PUROS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505102101119311,
+    "ean" : 7896016801839,
+    "nome" : "FLORINEFE",
+    "principio" : "ACETATO DE FLUDROCORTISONA",
+    "registro" : 1018000220025
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "1,0 MG/ML SUS OFT CT 1 FR PLAS GOT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 500901601170311,
+    "ean" : 7896548198865,
+    "nome" : "FLORATE",
+    "principio" : "ACETATO DE FLUORMETOLONA",
+    "registro" : 1006810960014
+  }, {
+    "Laboratorio" : "LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA",
+    "apresentacao" : "1 MG/ML SUS OFT CT FR PLAS TRANS GOT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "60.084.456/0001-09",
+    "codigoGGREM" : 523401901131412,
+    "ean" : 7896180300213,
+    "nome" : "FLUTINOL",
+    "principio" : "ACETATO DE FLUORMETOLONA",
+    "registro" : 1172500280028
+  }, {
+    "Laboratorio" : "SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "0,5 MG/ML SOL INJ CT SER VD PREENCHIDA X 0,5 ML",
+    "classeTerapeutica" : "H01C3 - HORMÔNIOS DE LIBERAÇÃO ANTIGONADOTROFINA",
+    "cnpj" : "03.560.974/0001-18",
+    "codigoGGREM" : 527302501154311,
+    "ean" : 7897572001336,
+    "nome" : "ORGALUTRAN",
+    "principio" : "ACETATO DE GANIRRELIX",
+    "registro" : 1017100970011
+  }, {
+    "Laboratorio" : "TEVA FARMACÊUTICA LTDA.",
+    "apresentacao" : "20 MG/ML SOL INJ CT 28 SERINGA PRE-ENCHIDA X 1 ML",
+    "classeTerapeutica" : "L03A9 - OUTROS AGENTES IMUNOESTIMULANTES EXCETO INTERFERONAS",
+    "cnpj" : "05.333.542/0001-08",
+    "codigoGGREM" : 537500101151219,
+    "ean" : 7898919602353,
+    "nome" : "COPAXONE",
+    "principio" : "ACETATO DE GLATIRÂMER",
+    "registro" : 1557300010010
+  }, {
+    "Laboratorio" : "ASTRAZENECA DO BRASIL LTDA",
+    "apresentacao" : "10,8 MG DEPOT + SER CT ENV AL POLIET X 1",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "60.318.797/0001-00",
+    "codigoGGREM" : 502305101151313,
+    "ean" : 7896206400873,
+    "nome" : "ZOLADEX LA",
+    "principio" : "ACETATO DE GOSSERRELINA",
+    "registro" : 1161800430021
+  }, {
+    "Laboratorio" : "ASTRAZENECA DO BRASIL LTDA",
+    "apresentacao" : "3,6 MG DEPOT + SER CT ENV AL POLIET X 1",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "60.318.797/0001-00",
+    "codigoGGREM" : 502305001157311,
+    "ean" : 7896206400552,
+    "nome" : "ZOLADEX",
+    "principio" : "ACETATO DE GOSSERRELINA",
+    "registro" : 1161800430011
+  }, {
+    "Laboratorio" : "THERASKIN FARMACEUTICA LTDA.",
+    "apresentacao" : "11,2 MG/G CREM DERM CT BG AL X 25 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "61.517.397/0001-88",
+    "codigoGGREM" : 512104201164410,
+    "ean" : 7897129300790,
+    "nome" : "THERASONA",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1019102390033
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/G CREM DERM CX 50 BG AL X 30 G (EMB HOSP)",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520729801167116,
+    "ean" : 7896112132981,
+    "nome" : "ACETATO DE HIDROCORTISONA",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1037005270086
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/G CREM DERM CT BG AL X 15 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520729802163114,
+    "ean" : 7896112132936,
+    "nome" : "ACETATO DE HIDROCORTISONA",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1037005270019
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "10 MG/G CREM DERM CT BG AL X 30 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520729803161115,
+    "ean" : 7896112132974,
+    "nome" : "ACETATO DE HIDROCORTISONA",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1037005270078
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "10 MG/G CREM DERM CT BG AL X 15 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050013713,
+    "ean" : 7795320000849,
+    "nome" : "BERLISON",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1705600810012
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "10 MG/G CREM DERM CT BG AL X 30 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050013813,
+    "ean" : 7795320050011,
+    "nome" : "BERLISON",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1705600810020
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "10 MG/ G CREM DERM CT BG AL X 20 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533024901162111,
+    "ean" : 7896006267072,
+    "nome" : "ACETATO DE HIDROCORTISONA",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1049713330013
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "10 MG/G POM DERM CT BG AL X 15 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050013913,
+    "ean" : 7795320000856,
+    "nome" : "BERLISON",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1705600810047
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "10 MG/G POM DERM CT BG AL X 30 G",
+    "classeTerapeutica" : "D07A0 - CORTICOESTERÓIDES TÓPICOS PUROS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050014013,
+    "ean" : 7795320050028,
+    "nome" : "BERLISON",
+    "principio" : "ACETATO DE HIDROCORTISONA",
+    "registro" : 1705600810055
+  }, {
+    "Laboratorio" : "SHIRE FARMACÊUTICA BRASIL LTDA.",
+    "apresentacao" : "10 MG/ML CT 01 SER X 3 ML + AGULHA",
+    "classeTerapeutica" : "B06D0 - Produtos para angioedema hereditário",
+    "cnpj" : "07.898.671/0001-60",
+    "codigoGGREM" : 540200101170210,
+    "ean" : 7898924769034,
+    "nome" : "FIRAZYR",
+    "principio" : "ACETATO DE ICATIBANTO",
+    "registro" : 1697900030018
+  }, {
+    "Laboratorio" : "BEAUFOUR IPSEN FARMACÊUTICA LTDA",
+    "apresentacao" : "120 MG SOL INJ LIB PROL CT SACHÊ SER PLAS PREENCHIDA X 0,5 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "07.718.721/0001-80",
+    "codigoGGREM" : 539200103153318,
+    "ean" : 7898932171034,
+    "nome" : "SOMATULINE AUTOGEL",
+    "principio" : "ACETATO DE LANREOTIDA",
+    "registro" : 1697700020035
+  }, {
+    "Laboratorio" : "BEAUFOUR IPSEN FARMACÊUTICA LTDA",
+    "apresentacao" : "120 MG SOL INJ LIB PR CT SACHÊ SER PREENCH AG RETRÁTIL X 0,5 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "07.718.721/0001-80",
+    "codigoGGREM" : 539214010000803,
+    "ean" : 7898932171096,
+    "nome" : "SOMATULINE AUTOGEL",
+    "principio" : "ACETATO DE LANREOTIDA",
+    "registro" : 1697700020061
+  }, {
+    "Laboratorio" : "BEAUFOUR IPSEN FARMACÊUTICA LTDA",
+    "apresentacao" : "60 MG SOL INJ LIB PROL CT SACHÊ SER PLAS PREENCHIDA X 0,3 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "07.718.721/0001-80",
+    "codigoGGREM" : 539200102157311,
+    "ean" : 7898932171058,
+    "nome" : "SOMATULINE AUTOGEL",
+    "principio" : "ACETATO DE LANREOTIDA",
+    "registro" : 1697700020019
+  }, {
+    "Laboratorio" : "BEAUFOUR IPSEN FARMACÊUTICA LTDA",
+    "apresentacao" : "60 MG SOL INJ LIB PR CT SACHÊ SER PREENCH AG RETRÁTIL X 0,5 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "07.718.721/0001-80",
+    "codigoGGREM" : 539214010000603,
+    "ean" : 7898932171072,
+    "nome" : "SOMATULINE AUTOGEL",
+    "principio" : "ACETATO DE LANREOTIDA",
+    "registro" : 1697700020043
+  }, {
+    "Laboratorio" : "BEAUFOUR IPSEN FARMACÊUTICA LTDA",
+    "apresentacao" : "90 MG SOL INJ LIB PROL CT SACHÊ SER PLAS PREENCHIDA X 0,3 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "07.718.721/0001-80",
+    "codigoGGREM" : 539200101150311,
+    "ean" : 7898932171041,
+    "nome" : "SOMATULINE AUTOGEL",
+    "principio" : "ACETATO DE LANREOTIDA",
+    "registro" : 1697700020027
+  }, {
+    "Laboratorio" : "BEAUFOUR IPSEN FARMACÊUTICA LTDA",
+    "apresentacao" : "90 MG SOL INJ LIB PR CT SACHÊ SER PREENCH AG RETRÁTIL X 0,5 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "07.718.721/0001-80",
+    "codigoGGREM" : 539214010000703,
+    "ean" : 7898932171089,
+    "nome" : "SOMATULINE AUTOGEL",
+    "principio" : "ACETATO DE LANREOTIDA",
+    "registro" : 1697700020051
+  }, {
+    "Laboratorio" : "ABBVIE FARMACÊUTICA LTDA.",
+    "apresentacao" : "11,25 MG PO LIOF INJ ESTOJO FA VD INC +  DIL + SER + 2 AGU",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "15.800.545/0001-50",
+    "codigoGGREM" : 543715070001217,
+    "ean" : 8054083003887,
+    "nome" : "LUPRON DEPOT",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1986000070076
+  }, {
+    "Laboratorio" : "ABBVIE FARMACÊUTICA LTDA.",
+    "apresentacao" : "3,75 MG PO LIOF INJ CX FA VD INC + DIL + SER + 2 AGU",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "15.800.545/0001-50",
+    "codigoGGREM" : 543715070001117,
+    "ean" : 8054083003870,
+    "nome" : "LUPRON DEPOT",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1986000070041
+  }, {
+    "Laboratorio" : "LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA",
+    "apresentacao" : "3.75 MG PO LIOF INJ CT FA VD INC + AMP DIL X 2 ML",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "61.282.661/0001-41",
+    "codigoGGREM" : 519506901151419,
+    "ean" : 7898149932145,
+    "nome" : "LORELIN DEPOT",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1064601660015
+  }, {
+    "Laboratorio" : "LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA",
+    "apresentacao" : "3.75 MG PO LIOF INJ CT FA VD INC + AMP DIL X 2 ML  + 1 SER + 2 AGU + MAT P/ ASSEP",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "61.282.661/0001-41",
+    "codigoGGREM" : 519512060020103,
+    "ean" : 7898149933524,
+    "nome" : "LORELIN DEPOT",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1064601660074
+  }, {
+    "Laboratorio" : "SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "3,75 MG PO LIOF INJ CT FA VD INC AMP DIL X 1,5 ML + SER + 2 AGU",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "61.286.647/0001-16",
+    "codigoGGREM" : 511513501158415,
+    "ean" : 7897595604460,
+    "nome" : "LECTRUM",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1004704100019
+  }, {
+    "Laboratorio" : "ABBVIE FARMACÊUTICA LTDA.",
+    "apresentacao" : "7,5 MG PO LIOF INJ CX FA VD INC + DIL + SER + 2 AGU",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "15.800.545/0001-50",
+    "codigoGGREM" : 543715070001317,
+    "ean" : 8054083003696,
+    "nome" : "LUPRON DEPOT",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1986000070092
+  }, {
+    "Laboratorio" : "SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "7,50 MG PO LIOF INJ CT FA VD INC AMP DIL X 1,5 ML + SER + 2 AGU",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "61.286.647/0001-16",
+    "codigoGGREM" : 511513502154413,
+    "ean" : 7897595604477,
+    "nome" : "LECTRUM",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1004704100027
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "22,5 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS INC SER B + AGU + SER A DIL + ÊMBOLO + 2 DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534203804151319,
+    "ean" : 7892953000687,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740045
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "22,5 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS TRANS SER B + AGU DISP SEGUR + DESSEC + BL AL PLAS TRANS DIL SER A + EMB + DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534214050010503,
+    "ean" : 7892953001974,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740071
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "22,5 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS TRANS SER B + AGU DISP SEGUR + DESSEC + BL AL PLAS TRANS DIL SER A + EMB + DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534214090010703,
+    "ean" : 7892953000496,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740096
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "45 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS TRANS SER B + AGU DISP SEGUR + BL AL PLAS TRANS DIL SER A + EMB + 2 DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534213080009803,
+    "ean" : 7892953000823,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740053
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "7,5 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS TRANS SER B + AGU DISP SEGUR + DESSEC + BL AL PLAS TRANS DIL SER A + EMB + DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534214090010603,
+    "ean" : 7892953000472,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740088
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "7,5 MG SUSP INJ CT SACHE C/ SER B + SACHE C/ SER A DIL + AGULHA + DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534203801152411,
+    "ean" : 7892953000809,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740010
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "7,5 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS INC SER B + AGU + SER A DIL + ÊMBOLO + 2 DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534203803155418,
+    "ean" : 7892953000670,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740037
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "7,5 MG PO LIOF SUS INJ SC LIB PROL CT BL AL PLAS TRANS SER B + AGU DISP SEGUR + DESSEC + BL AL PLAS TRANS DIL SER A + EMB + DESSEC",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534214050010403,
+    "ean" : 7892953001967,
+    "nome" : "ELIGARD",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1221400740061
+  }, {
+    "Laboratorio" : "ABBVIE FARMACÊUTICA LTDA.",
+    "apresentacao" : "5,0 MG/ML SOL INJ PT PLAS OPC FA VD INC X 2,8 ML + 14 SER + 15 SACHETS ALCOOL",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "15.800.545/0001-50",
+    "codigoGGREM" : 543715070001407,
+    "ean" : 8054083003863,
+    "nome" : "LUPRON DEPOT",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1986000070106
+  }, {
+    "Laboratorio" : "ABBOTT LABORATÓRIOS DO BRASIL LTDA",
+    "apresentacao" : "5,0 MG/ML SOL INJ PT PLAS OPC  FA VD INC X 2,8 ML + 14 SER",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "56.998.701/0001-16",
+    "codigoGGREM" : 500205101153319,
+    "ean" : 7891158000515,
+    "nome" : "LUPRON",
+    "principio" : "ACETATO DE LEUPRORRELINA",
+    "registro" : 1055301830021
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "150 MG/ML SUS INJ CT 25 AMP VD INC X 1 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026202156410,
+    "ean" : 7896006259640,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890089
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "150 MG/ML SUS INJ CT 25 FA VD INC X 1 ML (EMB HOSP)",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026203152419,
+    "ean" : 7896006259763,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890038
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "150 MG/ML SUS INJ CT FA VD INC X 1 ML + SER + AGULHA",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026206151413,
+    "ean" : 7896006259787,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890046
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "50 MG/ML SUS INJ CT FA VD INC X 1 ML",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026201151415,
+    "ean" : 7896006259794,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890011
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "50 MG/ML SUS INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026208154411,
+    "ean" : 7896006259633,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890062
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "10,0 MG COM CT  BL AL PLAS INC X 10",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522236201118418,
+    "ean" : 7891268102604,
+    "nome" : "FARLUTAL",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021601680012
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "10,0 MG COM CT  BL AL PLAS INC X 14",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522236202114416,
+    "ean" : 7891268102611,
+    "nome" : "FARLUTAL",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021601680020
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "10 MG COM CT BL AL PLAS INC X 14",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522238901117410,
+    "ean" : 7891268106213,
+    "nome" : "PROVERA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021601960031
+  }, {
+    "Laboratorio" : "LABORATIL FARMACEUTICA LTDA",
+    "apresentacao" : "10 MG COM CT BL AL PLAST INC X 5",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "47.100.862/0001-50",
+    "codigoGGREM" : 505200101113410,
+    "ean" : 7893353600118,
+    "nome" : "ACEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1057700050012
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "10 MG COM CT BL AL PLAS INC X 5",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507700301118419,
+    "ean" : 7896004715698,
+    "nome" : "ACETOFLUX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1023500360019
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "5,0 MG COM CT  BL AL PLAS INC X 14",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522236204117412,
+    "ean" : 7891268102635,
+    "nome" : "FARLUTAL",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021601680063
+  }, {
+    "Laboratorio" : "LIBBS FARMACÊUTICA LTDA",
+    "apresentacao" : "0,625 MG + 5MG COM VER + 0,625MG COM VER CT BL AL PLAS INC X 14 + 14",
+    "classeTerapeutica" : "G03F0 - ASSOCIAÇÕES DE ESTRÓGENOS E PROGESTÓGENOS",
+    "cnpj" : "61.230.314/0001-75",
+    "codigoGGREM" : 523704301114413,
+    "ean" : 7896094200715,
+    "nome" : "REPOGEN CICLO",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1003300720041
+  }, {
+    "Laboratorio" : "LIBBS FARMACÊUTICA LTDA",
+    "apresentacao" : "0,625 MG + 2,5 MG COM REV CT BL AL PLAS INC X 28",
+    "classeTerapeutica" : "G03F0 - ASSOCIAÇÕES DE ESTRÓGENOS E PROGESTÓGENOS",
+    "cnpj" : "61.230.314/0001-75",
+    "codigoGGREM" : 523704401119417,
+    "ean" : 7896094200692,
+    "nome" : "REPOGEN CONTI",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1003300720033
+  }, {
+    "Laboratorio" : "LIBBS FARMACÊUTICA LTDA",
+    "apresentacao" : "0,45 MG + 1,5 MG COM REV CT BL AL PLAS INC X 28 CALEND",
+    "classeTerapeutica" : "G03F0 - ASSOCIAÇÕES DE ESTRÓGENOS E PROGESTÓGENOS",
+    "cnpj" : "61.230.314/0001-75",
+    "codigoGGREM" : 523704601118414,
+    "ean" : 7896094201446,
+    "nome" : "SELECTA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1003301000026
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "150 MG/ML SUS INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526115020094803,
+    "ean" : 7894916502900,
+    "nome" : "CONTRACEP",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1058302200034
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "150 MG/ML SUS INJ CT FA VD INC X 1 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522235401156412,
+    "ean" : 7891268101799,
+    "nome" : "DEPO PROVERA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021602130032
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "150 MG/ML SUS INJ CT BL PLAS PLAS INC X SER VD INC PREENC X 1 ML + AG DESC",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522235402152410,
+    "ean" : 7891268101782,
+    "nome" : "DEPO PROVERA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021602130040
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "150 MG/ML SUS INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026204159417,
+    "ean" : 7896006259657,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890076
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "150 MG/ML SUS INJ CT FA VD INC X 1 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026205155415,
+    "ean" : 7896006259770,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890021
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "150 MG/ML SUS INJ CT SER PREENCHIDA X 1 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533026207158411,
+    "ean" : 7896006206781,
+    "nome" : "DEMEDROX",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1049711890054
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "50 MG/ML SUS INJ CT FA VD INC X 1 ML",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522235403159419,
+    "ean" : 7891268101720,
+    "nome" : "DEPO PROVERA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1021602130016
+  }, {
+    "Laboratorio" : "PRODUTOS FARMACÊUTICOS MILLET ROUX",
+    "apresentacao" : "25 MG/0,5ML + 5 MG/0,5ML SUS INJ CT AMP VD INC",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "33.388.182/0001-79",
+    "codigoGGREM" : 529100501151314,
+    "ean" : 7896830500468,
+    "nome" : "CYCLOFEMINA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1039700710011
+  }, {
+    "Laboratorio" : "PRODUTOS FARMACÊUTICOS MILLET ROUX",
+    "apresentacao" : "25 MG + 5 MG SUS INJ CX 50 AMP VD INC X 0,5 ML",
+    "classeTerapeutica" : "G03A9 - OUTROS HORMÔNIOS CONTRACEPTIVOS SISTÊMICOS",
+    "cnpj" : "33.388.182/0001-79",
+    "codigoGGREM" : 529100503152318,
+    "ean" : 7896830500574,
+    "nome" : "CYCLOFEMINA",
+    "principio" : "ACETATO DE MEDROXIPROGESTERONA",
+    "registro" : 1039700710028
+  }, {
+    "Laboratorio" : "BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA",
+    "apresentacao" : "160 MG COM CT FR VD AMB X 30",
+    "classeTerapeutica" : "L02A2 - HORMÔNIOS PROGESTOGÊNEOS CITOSTÁTICOS",
+    "cnpj" : "56.998.982/0001-07",
+    "codigoGGREM" : 505103302118310,
+    "ean" : 7896016800726,
+    "nome" : "MEGESTAT",
+    "principio" : "ACETATO DE MEGESTROL",
+    "registro" : 1018001420033
+  }, {
+    "Laboratorio" : "LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA",
+    "apresentacao" : "160 MG COM CT BL AL PLAS INC X 30",
+    "classeTerapeutica" : "L02A2 - HORMÔNIOS PROGESTOGÊNEOS CITOSTÁTICOS",
+    "cnpj" : "61.282.661/0001-41",
+    "codigoGGREM" : 519507001111419,
+    "ean" : 7898149932183,
+    "nome" : "FEMIGESTROL",
+    "principio" : "ACETATO DE MEGESTROL",
+    "registro" : 1064601230010
+  }, {
+    "Laboratorio" : "LABORATORIOS PFIZER LTDA.",
+    "apresentacao" : "40 MG/ML SUS INJ CT FA VD INC X 2 ML",
+    "classeTerapeutica" : "H02A1 - CORTICOSTERÓIDES INJETÁVEIS PUROS",
+    "cnpj" : "46.070.868/0001-69",
+    "codigoGGREM" : 522235501150416,
+    "ean" : 7891268101706,
+    "nome" : "DEPO-MEDROL",
+    "principio" : "ACETATO DE METILPREDNISOLONA",
+    "registro" : 1021601260013
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "40 MG / ML SUS INJ CT FA VD INC X 2 ML",
+    "classeTerapeutica" : "H02A1 - CORTICOSTERÓIDES INJETÁVEIS PUROS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533022701158416,
+    "ean" : 7896006286660,
+    "nome" : "PREDI-MEDROL",
+    "principio" : "ACETATO DE METILPREDNISOLONA",
+    "registro" : 1049712120015
+  }, {
+    "Laboratorio" : "ZODIAC PRODUTOS FARMACÊUTICOS S/A",
+    "apresentacao" : "2 MG/ML SOL NAS CT FR VD + PLAS OPC X 8 ML + VALV",
+    "classeTerapeutica" : "H01C1 - HORMÔNIOS LIBERADORES DE GONADOTROFINA",
+    "cnpj" : "55.980.684/0001-27",
+    "codigoGGREM" : 534204501179312,
+    "ean" : 7892953001349,
+    "nome" : "SYNAREL",
+    "principio" : "ACETATO DE NAFARRELINA",
+    "registro" : 1221400800013
+  }, {
+    "Laboratorio" : "TEVA FARMACÊUTICA LTDA.",
+    "apresentacao" : "5 MG COM CT CART BL AL PLAS INC X 10",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "05.333.542/0001-08",
+    "codigoGGREM" : 537512080004304,
+    "ean" : 7898919603180,
+    "nome" : "LUTENIL",
+    "principio" : "ACETATO DE NOMEGESTROL",
+    "registro" : 1557300200014
+  }, {
+    "Laboratorio" : "TEVA FARMACÊUTICA LTDA.",
+    "apresentacao" : "5 MG COM CT CART BL AL PLAS INC X 14",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "05.333.542/0001-08",
+    "codigoGGREM" : 537512080004404,
+    "ean" : 7898916031900,
+    "nome" : "LUTENIL",
+    "principio" : "ACETATO DE NOMEGESTROL",
+    "registro" : 1557300200022
+  }, {
+    "Laboratorio" : "TEVA FARMACÊUTICA LTDA.",
+    "apresentacao" : "5 MG COM CT CART BL AL PLAS INC X 30",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "05.333.542/0001-08",
+    "codigoGGREM" : 537512080004504,
+    "ean" : 7898919603206,
+    "nome" : "LUTENIL",
+    "principio" : "ACETATO DE NOMEGESTROL",
+    "registro" : 1557300200030
+  }, {
+    "Laboratorio" : "TEVA FARMACÊUTICA LTDA.",
+    "apresentacao" : "5 MG COM CT CART BL AL PLAS INC X 42",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "05.333.542/0001-08",
+    "codigoGGREM" : 537512080004604,
+    "ean" : 7898919603213,
+    "nome" : "LUTENIL",
+    "principio" : "ACETATO DE NOMEGESTROL",
+    "registro" : 1557300200049
+  }, {
+    "Laboratorio" : "MERCK S/A",
+    "apresentacao" : "5 MG COM CT CART BL AL PLAS INC X 14",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "33.069.212/0001-84",
+    "codigoGGREM" : 525406101113411,
+    "ean" : 7891721021114,
+    "nome" : "LUTENIL",
+    "principio" : "ACETATO DE NOMEGESTROL",
+    "registro" : 1008902820029
+  }, {
+    "Laboratorio" : "MERCK S/A",
+    "apresentacao" : "5 MG COM CT CART BL AL PLAS INC X 10",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "33.069.212/0001-84",
+    "codigoGGREM" : 525406102111412,
+    "ean" : 7891721021121,
+    "nome" : "LUTENIL",
+    "principio" : "ACETATO DE NOMEGESTROL",
+    "registro" : 1008902820010
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "2 MG + 1 MG COM REV CT BL AL PLAS INC X 28",
+    "classeTerapeutica" : "G03F0 - ASSOCIAÇÕES DE ESTRÓGENOS E PROGESTÓGENOS",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050011814,
+    "ean" : 7891106905893,
+    "nome" : "CLIANE",
+    "principio" : "ACETATO DE NORETISTERONA",
+    "registro" : 1705600560016
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "10 MG COM CT BL AL PLAS INC X 30",
+    "classeTerapeutica" : "G03D0 - PROGESTÓGENOS EXCLUINDO G3A, G3F",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538912050016013,
+    "ean" : 7891106906012,
+    "nome" : "PRIMOLUT-NOR",
+    "principio" : "ACETATO DE NORETISTERONA",
+    "registro" : 1705600580025
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "10 MG PO P/ SUS INJ CT FA VD INC + 1 SER DIL X 2,0 ML + SIST APLIC",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 526514110079603,
+    "ean" : 7896261018389,
+    "nome" : "SANDOSTATIN",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1006800090122
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "20 MG PO P/ SUS INJ CT FA VD INC + 1 SER DIL X 2,0 ML + SIST APLIC",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 526514110079703,
+    "ean" : 7896261018396,
+    "nome" : "SANDOSTATIN",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1006800090130
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "30 MG PO P/ SUS INJ CT FA VD INC + 1 SER DIL X 2,0 ML + SIST APLIC",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 526514110079803,
+    "ean" : 7896261018402,
+    "nome" : "SANDOSTATIN",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1006800090149
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,05 MG/ML SOL INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412050004416,
+    "ean" : 7898909980058,
+    "nome" : "ACETATO DE OCTREOTIDA",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200240031
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,05 MG/ML SOL INJ CT 5 AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412050004516,
+    "ean" : 7898909980065,
+    "nome" : "ACETATO DE OCTREOTIDA",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200240013
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,1 MG/ML SOL INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412050004616,
+    "ean" : 7898909980072,
+    "nome" : "ACETATO DE OCTREOTIDA",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200240048
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,1 MG/ML SOL INJ CT 5 AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412050004716,
+    "ean" : 7898909980089,
+    "nome" : "ACETATO DE OCTREOTIDA",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200240021
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,05 MG/ML SOL INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412070005914,
+    "ean" : 7898909980010,
+    "nome" : "OCTRIDE",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200200011
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,05 MG/ML SOL INJ CT 5 AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412070006014,
+    "ean" : 7898909980034,
+    "nome" : "OCTRIDE",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200200021
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,10 MG/ML SOL INJ CT AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412070006114,
+    "ean" : 7898909980027,
+    "nome" : "OCTRIDE",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200200038
+  }, {
+    "Laboratorio" : "SUN FARMACÊUTICA DO BRASIL LTDA",
+    "apresentacao" : "0,10 MG/ML SOL INJ CT 5 AMP VD INC X 1 ML",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "05.035.244/0001-23",
+    "codigoGGREM" : 532412070006214,
+    "ean" : 7898909980041,
+    "nome" : "OCTRIDE",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1468200200046
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "10 MG PO P/ SUS INJ CT FA VD INC + 1 SER DIL X 2,5 ML + SIST APLIC",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 526527202156315,
+    "ean" : 7896261003859,
+    "nome" : "SANDOSTATIN LAR",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1006800090092
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "20 MG PO P/ SUS INJ CT FA VD INC + 1 SER DIL X 2,5 ML + SIST APLIC",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 526527204159311,
+    "ean" : 7896261003866,
+    "nome" : "SANDOSTATIN LAR",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1006800090106
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "30 MG PO P/ SUS INJ CT FA VD INC + 1 SER DIL X 2,5 ML + SIST APLIC",
+    "classeTerapeutica" : "H01C2 - HORMÔNIOS ANTICRESCIMENTO",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 526527206151318,
+    "ean" : 7896261003873,
+    "nome" : "SANDOSTATIN LAR",
+    "principio" : "ACETATO DE OCTREOTIDA",
+    "registro" : 1006800090114
+  }, {
+    "Laboratorio" : "ALLERGAN PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,2 MG/ML SUS OC  FR PLAS OPC GOT X 10 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "43.426.626/0001-77",
+    "codigoGGREM" : 501004501179311,
+    "ean" : 7897316802861,
+    "nome" : "PRED MILD",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1014700060042
+  }, {
+    "Laboratorio" : "ALLERGAN PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "1,2 MG/ML SUS OFT FR PLAS OPC GOT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "43.426.626/0001-77",
+    "codigoGGREM" : 501004502175318,
+    "ean" : 7897316805558,
+    "nome" : "PRED MILD",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1014700060052
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "1,2 MG/ML SUS OFT CT FR PLAS OPC GOT X 10 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533022904172413,
+    "ean" : 7896006290667,
+    "nome" : "STER",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1049712870014
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CT FR PLAS OPC GOT X 5ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100078006,
+    "ean" : 7899095230293,
+    "nome" : "ACETATO DE PREDNISOLONA",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301900011
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CX 50 FR PLAS OPC GOT X 5ML (EMB HOSP)",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100078106,
+    "ean" : 7899095235137,
+    "nome" : "ACETATO DE PREDNISOLONA",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301900021
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CT FR PLAS OPC GOT X 10ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100078206,
+    "ean" : 7899095230200,
+    "nome" : "ACETATO DE PREDNISOLONA",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301900038
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CX 50 FR PLAS OPC GOT X 10ML (EMB HOSP)",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100078306,
+    "ean" : 7899095235120,
+    "nome" : "ACETATO DE PREDNISOLONA",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301900046
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CT FR PLAS OPC GOT X 5ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412110079704,
+    "ean" : 7899095235083,
+    "nome" : "PREDOPTIC",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301890016
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CX 50 FR PLAS OPC GOT X 5ML (EMB HOSP)",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412110079804,
+    "ean" : 7899095235106,
+    "nome" : "PREDOPTIC",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301890024
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10 MG/ML SUSP OFT CT FR PLAS OPC GOT X 10 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412110079904,
+    "ean" : 7899095235090,
+    "nome" : "PREDOPTIC",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301890032
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "10MG/ML SUSP OFT CX 50 FR PLAS OPC GOT X 10ML (EMB HOSP)",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412110080004,
+    "ean" : 7899095235113,
+    "nome" : "PREDOPTIC",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1542301890040
+  }, {
+    "Laboratorio" : "ALLERGAN PRODUTOS FARMACÊUTICOS LTDA",
+    "apresentacao" : "10 MG/ML SUS OC FR PLAS OPC GOT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "43.426.626/0001-77",
+    "codigoGGREM" : 501004601173313,
+    "ean" : 7897316800300,
+    "nome" : "PRED-FORT",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1014700060018
+  }, {
+    "Laboratorio" : "NOVARTIS BIOCIENCIAS S.A",
+    "apresentacao" : "10,0 MG/ML SUS OFT CT FR PLAS OPC CGT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "56.994.502/0001-30",
+    "codigoGGREM" : 500900101174115,
+    "ean" : 7896548138281,
+    "nome" : "ACETATO DE PREDNISOLONA",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1006810910017
+  }, {
+    "Laboratorio" : "LATINOFARMA INDUSTRIAS FARMACEUTICAS LTDA",
+    "apresentacao" : "10 MG/ML SUS OFT CT FR PLAS OPC GOT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "60.084.456/0001-09",
+    "codigoGGREM" : 523401101178414,
+    "ean" : 7896180300084,
+    "nome" : "OFTPRED",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1172500330017
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "10 MG/ML SUS OFT CT PLAS  OPC GOT X 5 ML",
+    "classeTerapeutica" : "S01B0 - CORTICOSTERÓIDES OFTALMOLÓGICOS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533022902171411,
+    "ean" : 7896006290988,
+    "nome" : "STER",
+    "principio" : "ACETATO DE PREDNISOLONA",
+    "registro" : 1049712870030
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "1.000 UI CAP GEL MOLE CT FR PLAS OPC X 30",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531625901111415,
+    "ean" : 7894916206891,
+    "nome" : "E-TABS",
+    "principio" : "ACETATO DE RACEALFATOCOFEROL",
+    "registro" : 1356906120012
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "400 UI CAP GEL MOLE CT FR PLAS OPC X 30",
+    "classeTerapeutica" : "A11X3 - VITAMINA E PURA",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531625902116410,
+    "ean" : 7894916206907,
+    "nome" : "E-TABS",
+    "principio" : "ACETATO DE RACEALFATOCOFEROL",
+    "registro" : 1356906120020
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "50000 UI DRG CT BL AL PLAS AMB X 30",
+    "classeTerapeutica" : "A11C1 - VITAMINA A PURA",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538900302118414,
+    "ean" : 7891106006361,
+    "nome" : "AROVIT",
+    "principio" : "ACETATO DE RETINOL",
+    "registro" : 1705600050018
+  }, {
+    "Laboratorio" : "BAYER S.A.",
+    "apresentacao" : "50000 UI DRG CT BL AL PLAS  X 30 - 04",
+    "classeTerapeutica" : "A11C1 - VITAMINA A PURA",
+    "cnpj" : "18.459.628/0001-15",
+    "codigoGGREM" : 538916070027103,
+    "ean" : 7891106911788,
+    "nome" : "AROVIT",
+    "principio" : "ACETATO DE RETINOL",
+    "registro" : 1705600050042
+  }, {
+    "Laboratorio" : "CASULA & VASCONCELOS INDÚSTRIA FARMACÊUTICA E COMÉRCIO LTDA ME",
+    "apresentacao" : "2 MEQ/ML SOL INJ IV CX 50 AMP VD INC X 10 ML",
+    "classeTerapeutica" : "K01A4 - SOLUÇÕES ELETROLÍTICAS 1/3",
+    "cnpj" : "05.155.425/0001-93",
+    "codigoGGREM" : 540600401155417,
+    "ean" : 7898920500167,
+    "nome" : "ACETATO DE SÓDIO",
+    "principio" : "ACETATO DE SÓDIO TRI-HIDRATADO",
+    "registro" : 1640000040013
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "0,1 MG/ML SOL INJ CT 5 AMP VD INC X 8,5 ML",
+    "classeTerapeutica" : "B02G0 - TECIDOS HEMOSTÁTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521412020004803,
+    "ean" : 7896165600789,
+    "nome" : "GLYPRESSIN",
+    "principio" : "ACETATO DE TERLIPRESSINA",
+    "registro" : 1287600060059
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "3,75 MG MICROCAP LIB LENTA CT SER PRE ENV X 1 ML",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521400401155410,
+    "ean" : 7896165600185,
+    "nome" : "GONAPEPTYL DEPOT",
+    "principio" : "ACETATO DE TRIPTORRELINA",
+    "registro" : 1287600090012
+  }, {
+    "Laboratorio" : "LABORATÓRIOS FERRING LTDA",
+    "apresentacao" : "0,1MG/ML SOL INJ CT 7 SER VD 1ML",
+    "classeTerapeutica" : "L02A3 - ANÁLOGOS HORMONAIS DE LIBERAÇÃO DE GONADOTROFINAS CITOSTÁTICOS",
+    "cnpj" : "74.232.034/0001-48",
+    "codigoGGREM" : 521401501153418,
+    "ean" : 7896165600291,
+    "nome" : "GONAPEPTYL DAILY",
+    "principio" : "ACETATO DE TRIPTORRELINA",
+    "registro" : 1287600140011
+  }, {
+    "Laboratorio" : "CAZI QUIMICA FARMACEUTICA INDUSTRIA E COMERCIO LTDA",
+    "apresentacao" : "250 MG COM CT FR VD AMB X 60",
+    "classeTerapeutica" : "S01E1 - PREPARAÇÕES ANTIGLAUCOMAS E MIÓTICAS SISTÊMICAS",
+    "cnpj" : "44.010.437/0001-81",
+    "codigoGGREM" : 505510901118413,
+    "ean" : 7893736010039,
+    "nome" : "ZOLAMOX",
+    "principio" : "ACETAZOLAMIDA",
+    "registro" : 1071501170019
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "250 MG COM CT FR VD AMB X 25",
+    "classeTerapeutica" : "S01E1 - PREPARAÇÕES ANTIGLAUCOMAS E MIÓTICAS SISTÊMICAS",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533020501119410,
+    "ean" : 7896006245322,
+    "nome" : "DIAMOX",
+    "principio" : "ACETAZOLAMIDA",
+    "registro" : 1049702890012
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "200 MG COM EFEV CT BL AL/AL X 16",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800614133318,
+    "ean" : 7898074613430,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400751128
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "600 MG COM EFEV CT BL AL/AL X 16",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800616136314,
+    "ean" : 7898074617612,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400751039
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807305137119,
+    "ean" : 7894916142649,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302220021
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG GRAN CT 10 ENV AL POLIET X 5 G (EMB FRAC)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807306133117,
+    "ean" : 7894916143899,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302220080
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "100MG GRAN CT 16 ENV KRAFT POLIET X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519025502134418,
+    "ean" : 7896714216409,
+    "nome" : "CETILPLEX",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1046504100010
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "100 MG GRAN CT 16 ENV PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017601115127,
+    "ean" : 7891317001056,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307720010
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "120 MG/G GRAN SOL CT 60 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100079004,
+    "ean" : 7899095239425,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400248
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "120 MG/G GRAN SOL CT 200 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100079104,
+    "ean" : 7899095239432,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400256
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "120 MG/G GRAN SOL CT 500 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412100079204,
+    "ean" : 7899095239449,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400264
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "120 MG/G GRAN SOL CT 10 ENV AL/PAP X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080097204,
+    "ean" : 7899095239395,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400213
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "120 MG/G GRAN SOL CT 16 ENV AL/PAP X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080097304,
+    "ean" : 7899095239401,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400221
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "120 MG/G GRAN SOL CT 50 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080097404,
+    "ean" : 7899095239418,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400231
+  }, {
+    "Laboratorio" : "MEDLEY FARMACÊUTICA LTDA",
+    "apresentacao" : "120 MG/G GRAN CT 16 ENV POLIES AL PP X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "10.588.595/0007-97",
+    "codigoGGREM" : 525067101132110,
+    "ean" : 7896422512909,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1018105010217
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "120 MG/G GRAN CT 16 ENV AL/PLAS X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040051104,
+    "ean" : 7896015522674,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980105
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "120 MG/G GRAN CT 200 ENV AL/PLAS X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040051204,
+    "ean" : 7896015522681,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980113
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "120 MG/G GRAN CX 1000 ENV AL/PLAS X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040051304,
+    "ean" : 7896015522698,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980121
+  }, {
+    "Laboratorio" : "UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "600 MG/5G GRAN CT 16 ENV AL",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "48.396.378/0001-82",
+    "codigoGGREM" : 532902902131415,
+    "ean" : 7897655041846,
+    "nome" : "MUCOCETIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1055001460091
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "120 MG/G GRAN CT 16 ENV AL PE X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800605134323,
+    "ean" : 7898074617322,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750288
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "600 MG GRAN CT 30 ENV PAPEL AL POLIET X 5 G (EMB FRAC)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508014040103406,
+    "ean" : 7891317448172,
+    "nome" : "ACETILCISTEINA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307720088
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "120 MG/G GRAN CT 16 SACH PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508025402134416,
+    "ean" : 7891317459062,
+    "nome" : "AIRES",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004310060069
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "120 MG/G GRAN CT 08 SACH PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508025404137412,
+    "ean" : 7891317464028,
+    "nome" : "AIRES",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004310060050
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "120 MG/G GRAN CT C/ 16 ENV X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500114139116,
+    "ean" : 7898148297979,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801270077
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "120 MG/G GRAN CT C/ 200 ENV X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500119130117,
+    "ean" : 7898148297986,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801270085
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "20 MG/ G GRAN CT C/ 16 ENV X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500109119110,
+    "ean" : 7898148298068,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801270042
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/G GRAN SOL CT 10 ENV AL/PAP X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096004,
+    "ean" : 7899095239272,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400094
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/G GRAN SOL CT 16 ENV AL/PAP X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096104,
+    "ean" : 7899095239289,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400108
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/G GRAN SOL CT 50 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096204,
+    "ean" : 7899095239296,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400116
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/G GRAN SOL CT 60 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096304,
+    "ean" : 7899095239302,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400124
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/G GRAN SOL CT 200 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096404,
+    "ean" : 7899095239319,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400132
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/G GRAN SOL CT 500 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096504,
+    "ean" : 7899095239326,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400140
+  }, {
+    "Laboratorio" : "MEDLEY FARMACÊUTICA LTDA",
+    "apresentacao" : "20 MG/G GRAN CT 16 ENV POLIES AL PP X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "10.588.595/0007-97",
+    "codigoGGREM" : 525067105138113,
+    "ean" : 7896422512848,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1018105010063
+  }, {
+    "Laboratorio" : "UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "100 MG/5G GRAN CT 16 ENV AL",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "48.396.378/0001-82",
+    "codigoGGREM" : 532902901133414,
+    "ean" : 7897655041808,
+    "nome" : "MUCOCETIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1055001460059
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "20 MG/G GRAN CT 16 ENV AL PE X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800602135329,
+    "ean" : 7898074616189,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750261
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "100 MG GRAN CT 30 ENV PAPEL AL POLIET X 5 G (EMB FRAC)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508014040103206,
+    "ean" : 7891317448158,
+    "nome" : "ACETILCISTEINA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307720045
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "20 MG/G GRAN CT 16 SACH PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508025401138418,
+    "ean" : 7891317459048,
+    "nome" : "AIRES",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004310060026
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "20 MG/G GRAN CT 08 SACH PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508025405133410,
+    "ean" : 7891317464035,
+    "nome" : "AIRES",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004310060018
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "20 MG/ G GRAN CT C/ 200 ENV X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500110133113,
+    "ean" : 7898148298075,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801270050
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "200 MG GRAN  CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531612302131417,
+    "ean" : 7894916503501,
+    "nome" : "NAC",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1356902810022
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "200 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807302138114,
+    "ean" : 7894916142106,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302220013
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "200 MG GRAN CT 10 ENV AL POLIET X 5 G (EMB FRAC)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807307131118,
+    "ean" : 7894916143905,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302220072
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "200MG GRAN CT 16 ENV KRAFT POLIET X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519025503130416,
+    "ean" : 7896714216416,
+    "nome" : "CETILPLEX",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1046504100037
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "200 MG GRAN CT 16 ENV AL PE X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507713901135421,
+    "ean" : 7896004705415,
+    "nome" : "FLUITEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023505880010
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "200 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507726202176112,
+    "ean" : 7896004708706,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023506310013
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "200 MG GRAN CT 30 ENV PAPEL AL POLIET X 5 G (EMB FRAC)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508014040103306,
+    "ean" : 7891317448165,
+    "nome" : "ACETILCISTEINA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307720061
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "200 MG GRAN CT 16 ENV PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017606133123,
+    "ean" : 7891317001063,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307720029
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/G GRAN SOL CT 10 ENV AL/PAP X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096604,
+    "ean" : 7899095239333,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400159
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/G GRAN SOL CT 16 ENV AL/PAP X 5G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096704,
+    "ean" : 7899095239340,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400167
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/G GRAN SOL CT 50 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096804,
+    "ean" : 7899095239357,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400175
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/G GRAN SOL CT 60 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080096904,
+    "ean" : 7899095239364,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400183
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/G GRAN SOL CT 200 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080097004,
+    "ean" : 7899095239371,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400191
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/G GRAN SOL CT 500 ENV AL/PAP X 5G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413080097104,
+    "ean" : 7899095239388,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400205
+  }, {
+    "Laboratorio" : "MEDLEY FARMACÊUTICA LTDA",
+    "apresentacao" : "40 MG/G GRAN CT 16 ENV POLIES AL PP X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "10.588.595/0007-97",
+    "codigoGGREM" : 525067107130111,
+    "ean" : 7896422512794,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1018105010128
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "40 MG/G GRAN CT 16 ENV AL/PLAS X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050804,
+    "ean" : 78960155225643,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980075
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "40 MG/G GRAN CT 200 ENV AL/PLAS X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050904,
+    "ean" : 7896015522650,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980083
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "40 MG/G GRAN CX 1000 ENV AL/PLAS X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040051004,
+    "ean" : 7896015522667,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980091
+  }, {
+    "Laboratorio" : "UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "200 MG/5G GRAN CT 16 ENV AL",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "48.396.378/0001-82",
+    "codigoGGREM" : 532902904132419,
+    "ean" : 7897655041822,
+    "nome" : "MUCOCETIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1055001460075
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "40 MG/G GRAN CT 15 ENV POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533005904135429,
+    "ean" : 7896006257752,
+    "nome" : "FLUCISTEIN",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1049711490048
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "40 MG/G GRAN CT 16 ENV AL PE X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800603131327,
+    "ean" : 7898074616714,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750271
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "40 MG/G GRAN CT 6 ENV AL PE X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800612130311,
+    "ean" : 7898074616738,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750601
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "40 MG/G GRAN CT 16 SACH PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508025403130414,
+    "ean" : 7891317459055,
+    "nome" : "AIRES",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004310060042
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "40 MG/G GRAN CT 08 SACH PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508025406131411,
+    "ean" : 7891317464042,
+    "nome" : "AIRES",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004310060034
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "40 MG/ G GRAN CT C/ 16 ENV X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500106136111,
+    "ean" : 7898148299577,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801270018
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "40 MG/ G GRAN CT C/ 200 ENV X 5 G (EMB MULT)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500107132111,
+    "ean" : 7898148299584,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801270026
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "600 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531612304134413,
+    "ean" : 7894916503686,
+    "nome" : "NAC",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1356902810121
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "600 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807303134112,
+    "ean" : 7894916142632,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302220031
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "600 MG GRAN CT 10 ENV AL POLIET X 5 G (EMB FRAC)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807308136113,
+    "ean" : 7894916143912,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302220099
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "600 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526113203131116,
+    "ean" : 7896004713328,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1058302890057
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "600 MG GRAN CT 16 ENV AL PE X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507713904134418,
+    "ean" : 7896004738376,
+    "nome" : "FLUITEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023505880088
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "600 MG GRAN CT 16 ENV AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507726203131112,
+    "ean" : 7896004713342,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023506310048
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "600 MG GRAN CT 16 ENV PAPEL AL POLIET X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017602138120,
+    "ean" : 7891317001070,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307720037
+  }, {
+    "Laboratorio" : "GLENMARK FARMACÊUTICA LTDA",
+    "apresentacao" : "120 MG/G GRAN EFEV CT 16 ENV AL X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "44.363.661/0001-57",
+    "codigoGGREM" : 521901303131428,
+    "ean" : 7897473201194,
+    "nome" : "FLUICIS",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1101300500051
+  }, {
+    "Laboratorio" : "GLENMARK FARMACÊUTICA LTDA",
+    "apresentacao" : "40 MG/G GRAN EFEV CT 16 ENV AL X 5 G",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "44.363.661/0001-57",
+    "codigoGGREM" : 521901302133427,
+    "ean" : 7897473201187,
+    "nome" : "FLUICIS",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1101300500041
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "10% SOL INJ CT 5 AMP VD AMB X 3 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533019304151113,
+    "ean" : 7896006259732,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1049713170016
+  }, {
+    "Laboratorio" : "BLAU FARMACÊUTICA S.A.",
+    "apresentacao" : "100 MG/ML SOL INJ CT 5 AMP VD AMB X 3 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "58.430.828/0001-60",
+    "codigoGGREM" : 504413701152114,
+    "ean" : 7896014655007,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1163700730011
+  }, {
+    "Laboratorio" : "BLAU FARMACÊUTICA S.A.",
+    "apresentacao" : "100 MG/ML SOL INJ CX 100 AMP VD AMB X 3 ML (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "58.430.828/0001-60",
+    "codigoGGREM" : 504413702159112,
+    "ean" : 7896014655014,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1163700730028
+  }, {
+    "Laboratorio" : "BLAU FARMACÊUTICA S.A.",
+    "apresentacao" : "100 MG/ML SOL INJ CX 100 AMP VD AMB X 3 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "58.430.828/0001-60",
+    "codigoGGREM" : 504414010041418,
+    "ean" : 7896014655083,
+    "nome" : "BROMUC",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1163701220023
+  }, {
+    "Laboratorio" : "BLAU FARMACÊUTICA S.A.",
+    "apresentacao" : "100 MG/ML SOL INJ CT 5 AMP VD AMB X 3 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "58.430.828/0001-60",
+    "codigoGGREM" : 504414010041518,
+    "ean" : 7896014655076,
+    "nome" : "BROMUC",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1163701220015
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "100 MG/ML SOL INJ CT 5 AMP VD AMB X 3 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533005901152411,
+    "ean" : 7896006298465,
+    "nome" : "FLUCISTEIN",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1049711490021
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "100 MG/ML SOL INJ CT 5 AMP VD AMB X 3 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800601155318,
+    "ean" : 7898074616073,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750148
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "11,50 MG/ML SOL NAS CT FR VD AMB X 20 ML + MICRONEBULIZADOR",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800615172317,
+    "ean" : 7898074616943,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750441
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 100 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017603134129,
+    "ean" : 7891317001940,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307710015
+  }, {
+    "Laboratorio" : "EUROFARMA LABORATÓRIOS S.A.",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 150 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.190.096/0001-92",
+    "codigoGGREM" : 508017604130127,
+    "ean" : 7891317002176,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1004307710023
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 150 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531612305130411,
+    "ean" : 7894916503709,
+    "nome" : "NAC",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1356902810146
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412403136115,
+    "ean" : 7899095233805,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301080073
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/ML XPE CX 60 FR VD AMB X 100 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413202134415,
+    "ean" : 7899095212725,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400061
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413206131410,
+    "ean" : 7899095203532,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400078
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807301131116,
+    "ean" : 7894916143400,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302110031
+  }, {
+    "Laboratorio" : "BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 100 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.161.069/0001-10",
+    "codigoGGREM" : 504611701132111,
+    "ean" : 7898095340414,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1558400440015
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "20MG/ML XPE CT FR VD AMB X 120ML + COP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520712080083104,
+    "ean" : 7896112158707,
+    "nome" : "PNEUMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1037005780025
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "20MG/ML XPE CT FR VD AMB X 120ML + COP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520712120085806,
+    "ean" : 7896112158882,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1037005800034
+  }, {
+    "Laboratorio" : "LABORATÓRIO NEO QUÍMICA COMÉRCIO E INDÚSTRIA LTDA",
+    "apresentacao" : "20MG/ML XPE CT FR VD AMB X 100ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "29.785.870/0001-03",
+    "codigoGGREM" : 519025501138411,
+    "ean" : 7896714216003,
+    "nome" : "CETILPLEX",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1046504100053
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 80 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050204,
+    "ean" : 7896015527327,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980016
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 100 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050304,
+    "ean" : 7896015522629,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980024
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 150 ML + COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050404,
+    "ean" : 7896015522636,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980032
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "20 MG/ML XPE CX 50 FR VD AMB X 80 ML + 50 COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050504,
+    "ean" : 7896015522612,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980040
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "20 MG/ML XPE CX 50 FR VD AMB X 100 ML + 50 COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050604,
+    "ean" : 7896015527334,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980059
+  }, {
+    "Laboratorio" : "GLAXOSMITHKLINE BRASIL LTDA",
+    "apresentacao" : "20 MG/ML XPE CX 50 FR VD AMB X 150 ML + 50 COP",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "33.247.743/0001-10",
+    "codigoGGREM" : 510613040050704,
+    "ean" : 7896015527358,
+    "nome" : "CETIKLINE",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1010702980067
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526113205134112,
+    "ean" : 7896004715285,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1058302860026
+  }, {
+    "Laboratorio" : "UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 100 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "48.396.378/0001-82",
+    "codigoGGREM" : 532902906135415,
+    "ean" : 7897655041884,
+    "nome" : "MUCOCETIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1055001460016
+  }, {
+    "Laboratorio" : "UCI - FARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 150 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "48.396.378/0001-82",
+    "codigoGGREM" : 532902907131413,
+    "ean" : 7897655041907,
+    "nome" : "MUCOCETIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1055001460032
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507726204136118,
+    "ean" : 7896004715292,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023506300026
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "20MG/ML XPE CT FR VD AMB X 100 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533005903139420,
+    "ean" : 7896006268666,
+    "nome" : "FLUCISTEIN",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1049711490064
+  }, {
+    "Laboratorio" : "UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "60.665.981/0001-18",
+    "codigoGGREM" : 533019302132111,
+    "ean" : 7896006210221,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1049700060020
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "20 MG/ML XPE CT FR VD AMB X 120 ML + CP DOSAD SBR FRAMBOESA",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800611134321,
+    "ean" : 7898074617445,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750407
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "20 MG/ML XPE 50 FR VD AMB X 80 ML + 50 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500101134110,
+    "ean" : 7898148296613,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801000010
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "20,0 MG/ML XPE CT FR VD AMB X 100ML + COPO MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500102130119,
+    "ean" : 7898148296620,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801000029
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "20,0 MG/ML XPE CT FR VD AMB X 150ML + COPO MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500103137117,
+    "ean" : 7898148296637,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801000037
+  }, {
+    "Laboratorio" : "EMS SIGMA PHARMA LTDA",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 150 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "00.923.140/0001-31",
+    "codigoGGREM" : 531612306137411,
+    "ean" : 7894916503907,
+    "nome" : "NAC",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1356902810073
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510412404132113,
+    "ean" : 7899095233799,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301080030
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/ML XPE CX 60 FR VD AMB X 120 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413201138417,
+    "ean" : 7899095212756,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400043
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/ML XPE CX 60 FR VD AMB X 100 ML + 60 CP MED (EMB HOSP)",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413203130413,
+    "ean" : 7899095212749,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400027
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510413207136416,
+    "ean" : 7899095203556,
+    "nome" : "CISTEIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1542301400035
+  }, {
+    "Laboratorio" : "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "05.044.984/0001-26",
+    "codigoGGREM" : 538807304130110,
+    "ean" : 7894916142656,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1677302110064
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "40MG/ML XPE CT FR VD AMB X 120ML + COP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520712080083204,
+    "ean" : 7896112158806,
+    "nome" : "PNEUMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1037005780076
+  }, {
+    "Laboratorio" : "LABORATÓRIO TEUTO BRASILEIRO S/A",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + COP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "17.159.229/0001-76",
+    "codigoGGREM" : 520712120085906,
+    "ean" : 7896112158981,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1037005800131
+  }, {
+    "Laboratorio" : "GERMED FARMACEUTICA LTDA",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "45.992.062/0001-65",
+    "codigoGGREM" : 526113206130110,
+    "ean" : 7896004713373,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1058302860069
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507713903138411,
+    "ean" : 7896004738383,
+    "nome" : "FLUITEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023505880096
+  }, {
+    "Laboratorio" : "EMS S/A",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "57.507.378/0001-01",
+    "codigoGGREM" : 507726205132116,
+    "ean" : 7896004713366,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1023506300085
+  }, {
+    "Laboratorio" : "ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA.",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120ML + CP DOSAD SBR MORANGO C/ ROMÃ",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "61.100.004/0001-36",
+    "codigoGGREM" : 533800608133328,
+    "ean" : 7898074617438,
+    "nome" : "FLUIMUCIL",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1008400750377
+  }, {
+    "Laboratorio" : "PRATI DONADUZZI & CIA LTDA",
+    "apresentacao" : "40 MG/ML XPE CT FR VD AMB X 120 ML + CP MED",
+    "classeTerapeutica" : "R05C0 - EXPECTORANTES",
+    "cnpj" : "73.856.593/0001-66",
+    "codigoGGREM" : 528500116131112,
+    "ean" : 7898148296606,
+    "nome" : "ACETILCISTEÍNA",
+    "principio" : "ACETILCISTEÍNA",
+    "registro" : 1256801000053
+  }, {
+    "Laboratorio" : "TAKEDA PHARMA LTDA.",
+    "apresentacao" : "40 MG/ML + 53 MG/ML + 50 MG/ML SOL OR CT FR VD AMB X 100 ML",
+    "classeTerapeutica" : "A05B0 - HEPATOPROTETORES E LIPOTRÓPICOS",
+    "cnpj" : "60.397.775/0001-74",
+    "codigoGGREM" : 501103305130417,
+    "ean" : 7896641800269,
+    "nome" : "XANTINON COMPLEX",
+    "principio" : "ACETILMETIONINA",
+    "registro" : 1063901190040
+  }, {
+    "Laboratorio" : "MERCK S/A",
+    "apresentacao" : "200 MG COM CT FR PLAS OPC X 25",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "33.069.212/0001-84",
+    "codigoGGREM" : 525400201116111,
+    "ean" : 7891721023477,
+    "nome" : "ACICLOVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1008902800028
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO DA MARINHA",
+    "apresentacao" : "200 MG COM CX BL AL PVC X 500 (EMB HOSP)",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "00.394.502/0071-57",
+    "codigoGGREM" : 524715070013004,
+    "ean" : 7898242771719,
+    "nome" : "LFM-ACICLOVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1262500920026
+  }, {
+    "Laboratorio" : "LABORATÓRIO FARMACÊUTICO DA MARINHA",
+    "apresentacao" : "200 MG COM CX BL AL PVC X 250 (EMB HOSP)",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "00.394.502/0071-57",
+    "codigoGGREM" : 524715070013104,
+    "ean" : 7898242772136,
+    "nome" : "LFM-ACICLOVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1262500920034
+  }, {
+    "Laboratorio" : "ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+    "apresentacao" : "200 MG COM CT BL AL PLAS INC X 25",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "02.433.631/0001-20",
+    "codigoGGREM" : 505606701111413,
+    "ean" : 7895858002626,
+    "nome" : "VIROTIN",
+    "principio" : "ACICLOVIR",
+    "registro" : 1376400630014
+  }, {
+    "Laboratorio" : "PHARLAB INDÚSTRIA FARMACÊUTICA S.A.",
+    "apresentacao" : "200 MG COM CT BL AL PLAS INC X 25",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "02.501.297/0001-02",
+    "codigoGGREM" : 527902601117416,
+    "ean" : 7898216360284,
+    "nome" : "HERVIRAX",
+    "principio" : "ACICLOVIR",
+    "registro" : 1410700180026
+  }, {
+    "Laboratorio" : "PHARLAB INDÚSTRIA FARMACÊUTICA S.A.",
+    "apresentacao" : "200 MG COM CT BL AL PLAS TRANS X 25",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "02.501.297/0001-02",
+    "codigoGGREM" : 527916030022406,
+    "ean" : 7898216367429,
+    "nome" : "ACICLOVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1410700970027
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "200 MG COM CT BL AL PLAS INC X 30",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506416040031504,
+    "ean" : 7896523216683,
+    "nome" : "ACICLOMED",
+    "principio" : "ACICLOVIR",
+    "registro" : 1438100230057
+  }, {
+    "Laboratorio" : "CIMED INDÚSTRIA DE MEDICAMENTOS LTDA",
+    "apresentacao" : "200 MG COM CT BL AL PLAS INC X 30",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "02.814.497/0001-07",
+    "codigoGGREM" : 506416080031606,
+    "ean" : 7896523216621,
+    "nome" : "ACICLOVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1438101810057
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "200 MG COM CT BL AL PLAS INC X 25",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510401001112410,
+    "ean" : 7899095201569,
+    "nome" : "HPVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1542300320021
+  }, {
+    "Laboratorio" : "GEOLAB INDÚSTRIA FARMACÊUTICA S/A",
+    "apresentacao" : "200 MG COM CT BL AL PLAS INC X 500 (EMB.HOSP)",
+    "classeTerapeutica" : "J05B3 - ANTIVIRAIS PARA HERPES",
+    "cnpj" : "03.485.572/0001-04",
+    "codigoGGREM" : 510401003115417,
+    "ean" : 7899095210660,
+    "nome" : "HPVIR",
+    "principio" : "ACICLOVIR",
+    "registro" : 1542300320038
+  } ]
+}
