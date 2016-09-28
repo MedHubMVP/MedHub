@@ -33,3 +33,4 @@ build
 /front/src/release
 /front/release
 /front/bower_components
+front/.tmp/serve

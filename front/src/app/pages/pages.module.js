@@ -11,7 +11,8 @@
     'BlurAdmin.pages.dashboard',
     'BlurAdmin.pages.form',
     'BlurAdmin.pages.search',
-    'BlurAdmin.pages.demand',
+	'BlurAdmin.pages.demand',
+	'BlurAdmin.pages.maps',
   ])
       .config(routeConfig);
 
