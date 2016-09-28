@@ -9,19 +9,20 @@
         <table class="table" ng-if="vm.searchResult">
             <thead>
                 <tr>
+					<td>Princípio</td>
                     <td>Nome</td>
-                    <td>Local</td>
-                    <td>Quantidade</td>
+                    <td>Apresentação</td>
                 </tr>
             </thead>
             <tbody>
                 <tr ng-repeat="result in vm.searchResult">
-                    <td>{{::result.name}}</td>
-                    <td>{{::result.place}}</td>
-                    <td>{{::result.count}}</td>
+					<td>{{::result.principio}}</td>
+                    <td>{{::result.nome}}</td>
+                    <td>{{::result.apresentacao}}</td>
                 </tr>
             </tbody>
         </table>
 
     </div>
+	<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
 </div>
