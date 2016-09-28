@@ -21,6 +21,16 @@
       L.marker([-23.599022, -46.717239]).addTo(map)
           .bindPopup('Hospital Albert Einstein')
           .openPopup();
+
+		  // Initialize Firebase
+  	    var config = {
+  	      apiKey: "AIzaSyBmFPVlL3koC_PvD11mD_y7y0PmQZvm54s",
+  	      authDomain: "medhub-3a1e3.firebaseapp.com",
+  	      databaseURL: "https://medhub-3a1e3.firebaseio.com",
+  	      storageBucket: "medhub-3a1e3.appspot.com",
+  	      messagingSenderId: "542735452063"
+  	    };
+  	    firebase.initializeApp(config);
     }
 
 	$timeout(function(){
