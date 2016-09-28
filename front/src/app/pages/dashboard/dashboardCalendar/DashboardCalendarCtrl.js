@@ -38,26 +38,35 @@
       eventLimit: true, // allow "more" link when too many events
       events: [
         {
-          title: 'All Day Event',
-          start: '2016-03-01',
-          color: dashboardColors.silverTree
-        },
-        {
-          title: 'Long Event',
-          start: '2016-03-07',
-          end: '2016-03-10',
-          color: dashboardColors.blueStone
-        },
-        {
-          title: 'Dinner',
+          title: 'CLOMIPRAMINA, CLORIDRATO',
           start: '2016-03-14T20:00:00',
           color: dashboardColors.surfieGreen
         },
         {
-          title: 'Birthday Party',
-          start: '2016-04-01T07:00:00',
+          title: 'GLICLAZIDA',
+          start: '2016-03-01T07:00:00',
           color: dashboardColors.gossipDark
-        }
+        },
+        {
+          title: 'PREDNISOLONA',
+          start: '2016-03-30T17:00:00',
+          color: dashboardColors.surfieGreen
+        },
+        {
+          title: 'SALBUTAMOL, SULFATO ',
+          start: '2016-03-22T08:00:00',
+          color: dashboardColors.gossipDark
+        },
+        {
+          title: 'SINVASTATINA ',
+          start: '2016-03-12T15:00:00',
+          color: dashboardColors.surfieGreen
+        },
+        {
+          title: 'VARFARINA SÓDICA ',
+          start: '2016-03-17T12:00:00',
+          color: dashboardColors.gossipDark
+        },
       ]
     });
   }
