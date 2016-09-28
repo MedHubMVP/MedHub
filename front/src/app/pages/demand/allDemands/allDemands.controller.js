@@ -20,13 +20,15 @@
           name: 'remedio ' + randR[Math.floor(Math.random()*randR.length)],
           hospital: 'hospital ' + randR[Math.floor(Math.random()*randR.length)],
           distance: Math.floor(Math.random()*100),
-          count: Math.floor(Math.random()*200)
+          count: Math.floor(Math.random()*200),
+          date: new Date('2016-09-' + Math.floor(Math.random()*30))
         });
         vm.newest = vm.newest.concat({
           name: 'remedio ' + randR[Math.floor(Math.random()*randR.length)],
           hospital: 'hospital ' + randR[Math.floor(Math.random()*randR.length)],
           distance: Math.floor(Math.random()*100),
-          count: Math.floor(Math.random()*200)
+          count: Math.floor(Math.random()*200),
+          date: Date.now()
         });
       }
       for (var i = 0; i < 30; i++) {
@@ -34,7 +36,8 @@
           name: 'remedio ' + randR[Math.floor(Math.random()*randR.length)],
           hospital: 'hospital ' + randR[Math.floor(Math.random()*randR.length)],
           distance: Math.floor(Math.random()*100),
-          count: Math.floor(Math.random()*200)
+          count: Math.floor(Math.random()*200),
+          date: new Date('2016-09-' + Math.floor(Math.random()*30))
         });
       } 
     }
