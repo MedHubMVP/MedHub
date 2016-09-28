@@ -2,35 +2,45 @@
 
 </div>-->
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="panel bootstrap-panel panel-default">
             <div class="panel-heading">
-                Em espera
+                Na Fila
             </div>
             <div class="panel-body">
-                <div ng-repeat="result in vm.waiting"  class="well">
+                <div class="ba-panel-button">
+                    <button class="btn btn-primary btn-icon" ui-sref="search()"><i class="ion-plus-round"></i></button>
+                </div>
+                <div ng-repeat="result in vm.waiting" class="well">
+                    <div class="well-button" show-children-on-hover-parent>
+                        <button class="btn btn-danger btn-icon" ng-click="vm.remove()"><i class="ion-trash-b"></i></button>
+                        <button class="btn btn-info btn-icon" ng-click="vm.edit()"><i class="ion-edit"></i></button>
+                    </div>
                     <h4>{{::result.name}}</h4>
                     <table class="table table-no-borders">
                         <tr>
                             <td class="align-right fit">Quantidade:</td>
-                            <td class="align-left">{{::result.count}}</td>
+                            <td class="align-left">{{result.count}}</td>
                         </tr>
                         <tr>
                             <td class="align-right fit">Data:</td>
-                            <td class="align-left">{{::result.date | date}}</td>
+                            <td class="align-left">{{result.date | date}}</td>
                         </tr>
                     </table>
                 </div>
             </div>
         </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="panel bootstrap-panel panel-info">
             <div class="panel-heading">
-                Em andamento
+                Em Andamento
             </div>
             <div class="panel-body">
-                <div ng-repeat="result in vm.going"  class="well">
+                <div ng-repeat="result in vm.going" class="well">
+                    <div class="well-button" show-children-on-hover-parent>
+                        <button class="btn btn-info btn-icon"><i class="ion-eye"></i></button>
+                    </div>
                     <h4>{{::result.name}}</h4>
                     <table class="table table-no-borders">
                         <tr>
@@ -46,13 +56,16 @@
             </div>
         </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 col-sm-12 col-xs-12">
         <div class="panel bootstrap-panel panel-success">
             <div class="panel-heading">
                 Transferido
             </div>
             <div class="panel-body">
-                <div ng-repeat="result in vm.finished"  class="well">
+                <div ng-repeat="result in vm.finished" class="well">
+                    <div class="well-button" show-children-on-hover-parent>
+                        <button class="btn btn-info btn-icon"><i class="ion-eye"></i></button>
+                    </div>
                     <h4>{{::result.name}}</h4>
                     <table class="table table-no-borders">
                         <tr>

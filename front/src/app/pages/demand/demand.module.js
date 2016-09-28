@@ -34,7 +34,7 @@
         .state('demand.allDemands', {
           url: '/alldemands',
           templateUrl: 'app/pages/demand/allDemands/allDemands.html',
-          title: 'Todos os pedidos',
+          title: 'Todos os Pedidos',
           controller: 'allDemandsCtrl',
           controllerAs: 'vm',
           sidebarMeta: {

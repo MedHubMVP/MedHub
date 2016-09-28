@@ -656,6 +656,11 @@ button.progress-button.btn.btn-danger {
   -webkit-transition: none;
   transition: none; }
 
+.ba-panel-button {
+  margin-top: -5px;
+  position: absolute;
+  right: 35px; }
+
 .label {
   border-radius: 0; }
 

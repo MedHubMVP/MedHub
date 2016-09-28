@@ -5,15 +5,38 @@
         .module('BlurAdmin')
         .controller('myDemandCtrl', myDemandCtrl);
 
-    function myDemandCtrl() {
+    function myDemandCtrl($uibModal) {
         var vm = this;
+
+        vm.remove = function () {
+            var modalInstance = $uibModal.open({
+                animation: true,
+                templateUrl: 'app/pages/demand/myDemand/deleteDemand.html',
+                size: 'md'
+            });
+            modalInstance.result.then(function () {
+                // vm.saveAction();
+            });
+        }
+
+        vm.edit = function () {
+            var modalInstance = $uibModal.open({
+                animation: true,
+                templateUrl: 'app/pages/demand/myDemand/editDemand.html',
+                size: 'md'
+            });
+            modalInstance.result.then(function () {
+                // vm.saveAction();
+            });
+
+        }
 
         // mock
         vm.waiting = createMock1();
         vm.going = createMock2();
         vm.finished = createMock3();
 
-        function createMock1 () {
+        function createMock1() {
             var mocks = [];
             mocks = mocks.concat({
                 name: "medicamento A",
@@ -47,9 +70,9 @@
             });
 
             return mocks;
-        }function createMock2 () {
+        } function createMock2() {
             var mocks = [];
-            
+
             mocks = mocks.concat({
                 name: "medicamento D",
                 count: "612",
@@ -70,9 +93,9 @@
             });
             return mocks;
         }
-        function createMock3 () {
+        function createMock3() {
             var mocks = [];
-            
+
             mocks = mocks.concat({
                 name: "medicamento H",
                 count: "8162",
@@ -85,7 +108,7 @@
                 // status: "cancelado",
                 date: new Date("2016-09-09")
             });
-            
+
             mocks = mocks.concat({
                 name: "medicamento H",
                 count: "8162",
@@ -98,7 +121,7 @@
                 // status: "cancelado",
                 date: new Date("2016-09-09")
             });
-            
+
             mocks = mocks.concat({
                 name: "medicamento H",
                 count: "8162",
@@ -111,7 +134,7 @@
                 // status: "cancelado",
                 date: new Date("2016-09-09")
             });
-            
+
             mocks = mocks.concat({
                 name: "medicamento H",
                 count: "8162",
@@ -124,7 +147,7 @@
                 // status: "cancelado",
                 date: new Date("2016-09-09")
             });
-            
+
             mocks = mocks.concat({
                 name: "medicamento H",
                 count: "8162",
