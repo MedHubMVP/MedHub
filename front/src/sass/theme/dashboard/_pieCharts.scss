@@ -31,8 +31,8 @@
     position: relative;
     .chart-icon {
       position: absolute;
-      right: 0px;
-      top: 3px;
+      right: 7px;
+      top: 9px;
       z-index: -1;
     }
   }
@@ -85,4 +85,9 @@
   .angular .chart {
     margin-top: 0;
   }
+}
+
+.chart-icon-dash {
+  opacity: 0.3;
+  font-size: 59px;
 }

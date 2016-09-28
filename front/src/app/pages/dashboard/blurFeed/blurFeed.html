@@ -2,15 +2,16 @@
 <div class="feed-messages-container" track-width="smallContainerWidth" min-width="360">
   <div class="feed-message" ng-repeat="message in feed" ng-click="expandMessage(message)">
     <div class="message-icon" ng-if="message.type == 'text-message'">
-      <img class="photo-icon" ng-src="{{::( message.author | profilePicture )}}">
+      <i ng-if="message.in" class="ion-arrow-down-a"></i>
+      <i ng-if="!message.in" class="ion-arrow-up-a"></i>
     </div>
     <div class="message-icon" ng-if="message.type != 'text-message'">
-      <img class="photo-icon" ng-src="{{::( message.author | profilePicture )}}">
+      <!--<img class="photo-icon" ng-src="{{::( message.author | profilePicture )}}">-->
       <span class="sub-photo-icon" ng-class="::message.type"></span>
     </div>
     <div class="text-block text-message">
       <div class="message-header">
-        <span class="author">{{ ::message.author }} {{ ::message.surname}}</span>
+        <span class="author">{{ ::message.author }} </span>
       </div>
       <div class="message-content line-clamp" ng-class="{'line-clamp-2' : !message.expanded}">
         <span ng-if="message.preview">{{message.header}} </span>{{::message.text}}

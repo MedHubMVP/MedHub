@@ -13,24 +13,28 @@
     var pieColor = baUtil.hexToRGB(baConfig.colors.defaultText, 0.2);
     $scope.charts = [{
       color: pieColor,
-      description: 'New Visits',
-      stats: '57,820',
-      icon: 'person',
+      description: 'Estoque',
+      stats: '178.391',
+      icon: 'ion-cube',
+      percent: 84
     }, {
       color: pieColor,
-      description: 'Purchases',
-      stats: '$ 89,745',
-      icon: 'money',
+      description: 'Reaproveitado',
+      stats: '1.820',
+      icon: 'ion-medkit',
+      percent: 93
     }, {
       color: pieColor,
-      description: 'Active Users',
-      stats: '178,391',
-      icon: 'face',
+      description: 'Perto da validade',
+      stats: '592',
+      icon: 'ion-ios-calendar-outline',
+      percent: 6
     }, {
       color: pieColor,
-      description: 'Returned',
-      stats: '32,592',
-      icon: 'refresh',
+      description: 'Trocas',
+      stats: 'R$ 89.745',
+      icon: 'ion-social-usd',
+      percent: 70
     }
     ];
 
@@ -63,7 +67,7 @@
 
     function updatePieCharts() {
       $('.pie-charts .chart').each(function(index, chart) {
-        $(chart).data('easyPieChart').update(getRandomArbitrary(55, 90));
+        $(chart).data('easyPieChart').update($scope.charts[index].percent);
       });
     }
 
