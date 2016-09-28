@@ -1,5 +1,85 @@
 <div class="row">
-    <div ba-panel>
-        
+    <div class="col-md-6 col-sm-12">
+        <div ba-panel ba-panel-class="xmedium-panel" ba-panel-title="Destaque">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td>Nome</td>
+                        <td>Hospital</td>
+                        <td>Distância</td>
+                        <td>Quantidade</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="result in vm.featured">
+                        <td></td>
+                        <td>{{::result.name}}</td>
+                        <td>{{::result.hospital}}</td>
+                        <td>{{::result.distance}} km</td>
+                        <td>{{::result.count}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+    <div class="col-md-6 col-sm-12">
+        <div ba-panel ba-panel-class="xmedium-panel" ba-panel-title="Mais novos">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td>Nome</td>
+                        <td>Hospital</td>
+                        <td>Distância</td>
+                        <td>Quantidade</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="result in vm.newest">
+                        <td></td>
+                        <td>{{::result.name}}</td>
+                        <td>{{::result.hospital}}</td>
+                        <td>{{::result.distance}} km</td>
+                        <td>{{::result.count}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-12">
+        <div ba-panel>
+            <div class="form-group">
+                <input type="text" class="form-control" id="input01" placeholder="Busca">
+            </div>
+            <div ng-if="!vm.searchResult">
+                <br> Nenhum resultado encontrado.
+            </div>
+            <table class="table" ng-if="vm.searchResult">
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td>Nome</td>
+                        <td>Hospital</td>
+                        <td>Distância</td>
+                        <td>Quantidade</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="result in vm.searchResult">
+                        <td></td>
+                        <td>{{::result.name}}</td>
+                        <td>{{::result.hospital}}</td>
+                        <td>{{::result.distance}} km</td>
+                        <td>{{::result.count}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
     </div>
 </div>
