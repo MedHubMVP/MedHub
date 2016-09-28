@@ -28,7 +28,7 @@
       description: 'Perto da validade',
       stats: '592',
       icon: 'ion-ios-calendar-outline',
-      percent: 6
+      percent: 12
     }, {
       color: pieColor,
       description: 'Trocas',

@@ -2,8 +2,8 @@
 <div class="feed-messages-container" track-width="smallContainerWidth" min-width="360">
   <div class="feed-message" ng-repeat="message in feed" ng-click="expandMessage(message)">
     <div class="message-icon" ng-if="message.type == 'text-message'">
-      <i ng-if="message.in" class="ion-arrow-down-a"></i>
-      <i ng-if="!message.in" class="ion-arrow-up-a"></i>
+      <i ng-if="message.in" class="feed-icon ion-arrow-down-a" style="color:{{::message.color}}"></i>
+      <i ng-if="!message.in" class="feed-icon ion-arrow-up-a" style="color:{{::message.color}}"></i>
     </div>
     <div class="message-icon" ng-if="message.type != 'text-message'">
       <!--<img class="photo-icon" ng-src="{{::( message.author | profilePicture )}}">-->
@@ -15,6 +15,7 @@
       </div>
       <div class="message-content line-clamp" ng-class="{'line-clamp-2' : !message.expanded}">
         <span ng-if="message.preview">{{message.header}} </span>{{::message.text}}
+        {{message.distance}} km
       </div>
       <div class="preview" ng-show="message.expanded" ng-if="message.preview">
         <a href="{{::message.link}}" target="_blank">
